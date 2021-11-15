@@ -16,6 +16,7 @@ fs::dir_tree()
 #> ├── projects
 #> │   └── open-animal-movement-data.md
 #> └── topics
+#>     ├── Icarus.md
 #>     ├── animal-movement.md
 #>     ├── open-data.md
 #>     └── reproducibility.md
@@ -30,6 +31,6 @@ fs::dir_tree()
 
 ## Topics
 
--   Reprodubility
+-   Reproducibility
 -   Open data
 -   Animal movement

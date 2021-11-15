@@ -27,6 +27,6 @@ fs::dir_tree()
 
 
 ## Topics
-* Reprodubility
+* Reproducibility
 * Open data
 * Animal movement
