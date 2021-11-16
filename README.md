@@ -14,10 +14,17 @@ fs::dir_tree()
 #> ├── lit-base.Rproj
 #> ├── papers
 #> ├── projects
-#> │   └── open-animal-movement-data.md
+#> │   └── c2-open-animal-movement-data.md
 #> └── topics
-#>     ├── Icarus.md
 #>     ├── animal-movement.md
+#>     ├── movement-databases
+#>     │   ├── EuroMammals.md
+#>     │   ├── Icarus.md
+#>     │   ├── MOTUS.md
+#>     │   ├── MoveBank.md
+#>     │   ├── OzTrack.md
+#>     │   ├── WRAM.md
+#>     │   └── movement-databases.md
 #>     ├── open-data.md
 #>     └── reproducibility.md
 ```
