@@ -1,2 +1,2 @@
-# knb
+# KNB
 https://knb.ecoinformatics.org/
