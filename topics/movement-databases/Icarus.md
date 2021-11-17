@@ -8,7 +8,7 @@ Icarus gives three years of exclusive access to the tag owner, then [[animal-mov
 [Privacy policy](https://www.icarus.mpg.de/103830/privacy-policy)
 > All Icarus data are stored in the freely available online database Movebank of the Max Planck Institute of Animal Behavior. In order to make them permanently available for further analysis, they will be publicly accessible as far as possible. Only sensitive data will not be visible to the public
 
-* All data collected by Icarus tags and forwarded through the Icarus system are stored in [Movebank](https://www.movebank.org/cms/movebank-main).
+* All data collected by Icarus tags and forwarded through the Icarus system are stored in [[Movebank]].
 * Each user provides metadata for the used tags every six months and confirms the validity of the metadata.
 * In order to improve Icarus services and access to the channels, users are required to specify the estimated range of use of the channel.
 * In Movebank only data of tags with assigned and confirmed metadata is stored.
