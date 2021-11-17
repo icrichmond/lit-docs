@@ -18,4 +18,4 @@ Solutions:
 There is much less complexity in designing consistent metadata structure for animal movement data than other forms of ecological data. The [[structure-of-movement-data]], at it's simplest, is a series of rows with locations (longitude, latitude), individual identifier and time. Additional information may indicate precision of the location, number of satellites, etc.
 
 ## Format
-Text based file format, non-proprietary [[Whitlock_et_al_2011]]
+Text based file format, non-proprietary [[Whitlock_et_al_2011]]. In the case of animal movement data, CSV or TSV. 
