@@ -1,5 +1,5 @@
 # Open science
 
 ## Initiatives
-[[Center for Open Science]]
+* [[Center for Open Science]]
 	* [[OCF]]
