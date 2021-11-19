@@ -1,5 +1,10 @@
 # Open data
 
+## Debate
+* [[reasons-open-data]]
+* [[reasons-closed-data]]
+
+
 ## Guidelines
 * [[FAIR]]
 * [[Joint_Data_Archiving_Policy]]
