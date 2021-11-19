@@ -13,7 +13,10 @@ fs::dir_tree()
 #> ├── books
 #> ├── lit-base.Rproj
 #> ├── papers
+#> │   ├── Duke_et_al_2013.md
+#> │   ├── Michener_2015.md
 #> │   ├── Mills_et_al_2015.md
+#> │   ├── Uhlir_et_al_2007.md
 #> │   ├── Whitlock_et_al_2010.md
 #> │   ├── Whitlock_et_al_2011.md
 #> │   ├── Wulder_et_al_2019.md
@@ -39,13 +42,18 @@ fs::dir_tree()
 #> │   │   │   ├── OzTrack.md
 #> │   │   │   ├── WRAM.md
 #> │   │   │   └── movement-databases.md
-#> │   │   └── phylogenetic-data
-#> │   │       └── TreeBASE.md
-#> │   ├── metadata.md
+#> │   │   ├── phylogenetic-databases
+#> │   │   │   └── TreeBASE.md
+#> │   │   └── re3data.md
+#> │   ├── metadata
+#> │   │   ├── EML.md
+#> │   │   └── metadata.md
 #> │   ├── open-data
 #> │   │   ├── FAIR.md
+#> │   │   ├── IODE.md
 #> │   │   ├── Joint_Data_Archiving_Policy.md
-#> │   │   └── open-data.md
+#> │   │   ├── open-data.md
+#> │   │   └── sensitive-data.md
 #> │   ├── open-science
 #> │   │   └── open-science.md
 #> │   ├── remote-sensing
