@@ -9,6 +9,8 @@
 * [[FAIR]]
 * [[Joint_Data_Archiving_Policy]]
 
+## Repositories
+* [[data-repositories]]
 
 ## Examples
 ### Animal movement data
