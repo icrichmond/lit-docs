@@ -11,6 +11,7 @@ fs::dir_tree()
 #> ├── README.Rmd
 #> ├── README.md
 #> ├── books
+#> │   └── Kitchin_2014.md
 #> ├── lit-base.Rproj
 #> ├── papers
 #> │   ├── Duke_et_al_2013.md
@@ -53,6 +54,8 @@ fs::dir_tree()
 #> │   │   ├── IODE.md
 #> │   │   ├── Joint_Data_Archiving_Policy.md
 #> │   │   ├── open-data.md
+#> │   │   ├── reasons-closed-data.md
+#> │   │   ├── reasons-open-data.md
 #> │   │   └── sensitive-data.md
 #> │   ├── open-science
 #> │   │   └── open-science.md
