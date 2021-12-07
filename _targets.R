@@ -26,7 +26,7 @@ c(
   ),
   tar_target(
     add_parts,
-    write_parts(),
+    {files; write_parts()},
     format = 'file'
   ),
   tar_target(
