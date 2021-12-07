@@ -11,3 +11,16 @@ link-citations: yes
 
 
 # Lit-base
+
+Alec L. Robitaille
+
+```{r}
+library(targets)
+library(visNetwork)
+
+source('R/functions.R')
+
+tar_load(edges)
+
+vis_network(edges)
+```
