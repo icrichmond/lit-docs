@@ -1,5 +1,5 @@
 get_files <- function() {
-  files <- (dir('.', pattern = '\\.md$', full.names = TRUE, recursive = TRUE, all.files = TRUE))
+  files <- c('index.Rmd', dir('.', pattern = '\\.md$', full.names = TRUE, recursive = TRUE, all.files = TRUE))
   files[grep('README', files, invert = TRUE)]
 }
 
@@ -9,7 +9,7 @@ write_parts <- function() {
   lapply(drop_some, function(x) {
     nm <- basename(x)
     writeLines(paste0('# (PART) ', stringi::stri_trans_totitle(nm), ' {-}'),
-               file.path(x, paste0('index_', nm, '.md')))
+               file.path(x, paste0('aa_index_', nm, '.md')))
   })
   drop_some
 }
@@ -40,7 +40,7 @@ write_rmd_files <- function(files) {
 
 
 get_book_deps <- function() {
-  c('_bookdown.yml', 'style.css', '_output.yml')
+  c('_bookdown.yml', 'style.css', '_output.yml', 'index.Rmd')
 }
 
 
