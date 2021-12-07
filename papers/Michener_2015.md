@@ -12,6 +12,7 @@ Ecologists are continuing to generate large volumes of data
 * [[reproducibility]]
 
 Outside of research
+
 * inform decision making
 * contribute to resource management
 * education
@@ -20,6 +21,7 @@ In some cases, [[open-data]] is the only data available
 
 ## Types of ecological data
 From [[Bowser_1994]], ecological data is:
+
 * Planned, eg long term C02 in Hawaii
 * Opportunistic, eg. short term goals and discrete funding periods
 * Serendipitous, eg. animal harvest data, citizen contributed
