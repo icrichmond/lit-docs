@@ -25,17 +25,32 @@ c(
     pattern = map(files)
   ),
   tar_target(
+    add_parts,
+    write_parts(),
+    format = 'file'
+  ),
+  tar_target(
+    files_with_parts,
+    {add_parts; get_files()}
+  ),
+  tar_target(
     rmd_files,
-    write_rmd_files(files)
+    write_rmd_files(files_with_parts),
+    format = 'file'
+  ),
+  tar_target(
+    checked_bs4_names,
+    check_files_for_bs4(rmd_files)
   ),
   tar_target(
     book_deps,
-    get_book_deps(),
+    {rmd_files; checked_bs4_names; get_book_deps()},
     format = 'file'
   ),
   tar_target(
     book,
-    {book_deps; render_book()}
+    {book_deps; render_book()},
+    cue = tar_cue('always')
   )
 )
 
