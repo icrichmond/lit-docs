@@ -1,15 +1,17 @@
 get_files <- function() {
-  files = c('index.Rmd', dir('.', pattern = '\\.md$', full.names = TRUE, recursive = TRUE))
+  files <- (dir('.', pattern = '\\.md$', full.names = TRUE, recursive = TRUE, all.files = TRUE))
   files[grep('README', files, invert = TRUE)]
 }
 
 write_parts <- function() {
-  dirs <- grep('/\\.|public|R|\\.$', list.dirs('.', recursive = TRUE), value = TRUE, invert = TRUE)
-  lapply(dirs, function(x) {
+  dirs <- grep('/\\.|public|_targets|R|\\.$', list.dirs('.', recursive = TRUE), value = TRUE, invert = TRUE)
+  drop_some <- dirs[grep('topics$|unsorted', dirs, invert = TRUE)]
+  lapply(drop_some, function(x) {
     nm <- basename(x)
     writeLines(paste0('# (PART) ', stringi::stri_trans_totitle(nm), ' {-}'),
-               file.path(x, '.index.md'))
+               file.path(x, paste0('index_', nm, '.md')))
   })
+  drop_some
 }
 
 find_within_brackets <- function(filepath) {
@@ -18,7 +20,7 @@ find_within_brackets <- function(filepath) {
   DT <- data.table(links_to = links)[, links_from := basename(sans_ext(filepath))]
   return(DT[links_to != links_from])
 }
-chk::chk_equal(nrow(find_within_brackets('README.Rmd')), 0)
+chk::chk_equal(nrow(find_within_brackets('README.md')), 0)
 
 network_to <- function(x) {
   visIgraph(graph_from_edgelist(as.matrix(x), directed = FALSE)) %>% 
@@ -33,6 +35,7 @@ write_rmd_files <- function(files) {
                        ']')
   lns[ln] <- replace_ln
   writeLines(lns, '_bookdown.yml')
+  files
 }
 
 
