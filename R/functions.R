@@ -22,8 +22,8 @@ find_within_brackets <- function(filepath) {
 }
 chk::chk_equal(nrow(find_within_brackets('README.md')), 0)
 
-network_to <- function(x) {
-  visIgraph(graph_from_edgelist(as.matrix(x), directed = FALSE)) %>% 
+vis_network <- function(edges) {
+  visIgraph(graph_from_edgelist(as.matrix(edges), directed = FALSE)) %>% 
     visPhysics(solver = 'repulsion')
 }
 

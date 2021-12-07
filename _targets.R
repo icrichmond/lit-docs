@@ -20,7 +20,7 @@ c(
     cue = tar_cue('always')
   ),
   tar_target(
-    nodes,
+    edges,
     find_within_brackets(files),
     pattern = map(files)
   ),
