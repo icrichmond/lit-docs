@@ -23,8 +23,10 @@ find_within_brackets <- function(filepath) {
 chk::chk_equal(nrow(find_within_brackets('README.md')), 0)
 
 vis_network <- function(edges) {
-  visIgraph(graph_from_edgelist(as.matrix(edges), directed = FALSE)) %>% 
-    visPhysics(solver = 'repulsion')
+  visIgraph(graph_from_edgelist(as.matrix(edges), directed = FALSE)) %>%
+    visOptions(width = '100%', height = '50%') %>%
+    visNodes(font = list(size = 20)) %>%
+    visPhysics(stabilization = FALSE, solver = 'barnesHut', barnesHut = list(centralGravity = 0.1))
 }
 
 write_rmd_files <- function(files) {
