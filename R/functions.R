@@ -37,6 +37,22 @@ write_rmd_files <- function(files) {
 
 
 get_book_deps <- function() {
-  c('_bookdown.yml', 'style.css', '_common.R',
-    dir('public'))
+  c('_bookdown.yml', 'style.css', '_output.yml')
+}
+
+
+check_files_for_bs4 <- function(files) {
+  with_html <- lapply(files, function(x) with_ext(basename(x), "html"))
+  html_base <- vapply(with_html, basename, FUN.VALUE = 'potato')
+  file_base <- vapply(files, basename, FUN.VALUE = 'potato')
+  names(file_base) <- NULL
+  
+  cbind(
+    files = (file_base),
+    htmls = (html_base)#,
+    # equal = all.equal(
+      # sans_ext(file_base),
+      # sans_ext(html_base)
+    # )
+  )
 }
