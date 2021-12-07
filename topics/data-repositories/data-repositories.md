@@ -20,7 +20,8 @@
 
 ## TODO
 From [[Michener_2015]], Table 2
-[[re3data]]
+
+* [[re3data]]
 * AADC
 * Atlas
 * LTER

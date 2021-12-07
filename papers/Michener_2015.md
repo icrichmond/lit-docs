@@ -51,8 +51,8 @@ Meanwhile, there are many hidden costs of closed data. [[Uhlir_et_al_2007]]
 * [[ORCID]]
 
 ## Open work
-Open Knowledge and the Open Definition Advisory
-Council defines open work
+Open Knowledge and the Open Definition Advisory Council defines open work
+
 * Open license
 * Access at nominal or no cost, ideally downloadable free on internet
 * Open [[format]]
