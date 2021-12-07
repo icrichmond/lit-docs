@@ -5,7 +5,17 @@ library(igraph)
 library(visNetwork)
 
 file <- 'topics/animal-movement/animal-movement.md'
-files <- dir('.', pattern = '\\.md$', full.names = TRUE, recursive = TRUE)
+files <- c('index.Rmd', dir('.', pattern = '\\.md$', full.names = TRUE, recursive = TRUE))
+files <- files[grep('README', files, invert = TRUE)]
+
+dirs <- grep('/\\.|public|R|\\.$', list.dirs('.', recursive = TRUE), value = TRUE, invert = TRUE)
+lapply(dirs, function(x) {
+  nm <- basename(x)
+  writeLines(paste0('# (PART) ', stringi::stri_trans_totitle(nm), ' {-}'),
+    file.path(x, '.index.md'))
+})
+
+
 
 find_within_brackets <- function(filepath) {
   chars <- readChar(filepath, file.info(filepath)$size)
@@ -25,3 +35,17 @@ network_to <- function(x) {
 }
 
 lapply(a[vapply(a, nrow, 42) > 0], network_to)
+
+
+lns <- readLines('_bookdown.yml')
+ln <- grep('rmd_files', lns)
+replace_ln <- paste0('rmd_files: [',
+                     paste0(paste0('"', files, '"'), collapse = ','),
+                     ']')
+lns[ln] <- replace_ln
+writeLines(lns, '_bookdown.yml')
+
+
+add_part <- function(files) {
+  
+}
