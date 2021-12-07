@@ -1,4 +1,4 @@
-# Open animal movement data
+# C2-open-animal-movement-data
 
 [[open-data]] [[reproducibility]] [[animal-movement]]
 

@@ -1,4 +1,4 @@
-# Reasons for closed data
+# reasons-closed-data
 ## Sensitive data
 * [[sensitive-data]]
 

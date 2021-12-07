@@ -1,4 +1,4 @@
-# Data repositories
+# Data-repositories
 
 ## General databases
 * [[Figshare]]

@@ -1,4 +1,4 @@
-# Mills et al 2015
+# Mills_et_al_2015
 Mills, J.A., Teplitsky, C., Arroyo, B., Charmantier, A., Becker, P.H., Birkhead, T.R., Bize, P., Blumstein, D.T., Bonenfant, C., Boutin, S. and Bushuev, A. [...], 2015. Archiving primary data: solutions for long-term studies. _Trends in Ecology & Evolution_, _30_(10), pp.581-589.
 
 ---
