@@ -4,3 +4,6 @@
 .Ruserdata
 .obsidian
 _targets/
+lit-base.html
+_main.html
+_main.Rmd
