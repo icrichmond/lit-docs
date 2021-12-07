@@ -15,3 +15,13 @@ find_within_brackets <- function(filepath) {
 }
 chk::chk_equal(nrow(find_within_brackets('README.Rmd')), 0)
 
+find_within_brackets(file)
+
+a <- lapply(files, find_within_brackets)
+
+network_to <- function(x) {
+  visIgraph(graph_from_edgelist(as.matrix(x), directed = FALSE)) %>% 
+    visPhysics(solver = 'repulsion')
+}
+
+lapply(a[vapply(a, nrow, 42) > 0], network_to)
