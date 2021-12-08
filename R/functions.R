@@ -52,9 +52,9 @@ check_files_for_bs4 <- function(files) {
   file_base <- vapply(files, basename, FUN.VALUE = 'potato')
   names(file_base) <- NULL
   
-  cbind(
-    files = (file_base),
-    htmls = (html_base)#,
+  data.table(
+    files = sans_ext(file_base),
+    htmls = sans_ext(html_base)#,
     # equal = all.equal(
       # sans_ext(file_base),
       # sans_ext(html_base)
