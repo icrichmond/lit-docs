@@ -14,7 +14,7 @@ link-citations: yes
 Alec L. Robitaille
 
 
-```{r}
+```{r, echo = FALSE}
 library(targets)
 library(visNetwork)
 
@@ -22,5 +22,7 @@ source('R/functions.R')
 
 tar_load(edges)
 
-vis_network(edges)
+visSave(vis_network(edges), 'html/viz.html')
+
+htmltools::includeHTML('html/viz.html')
 ```

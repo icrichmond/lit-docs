@@ -1,10 +1,10 @@
 get_files <- function(directory = '.') {
   files <- c('index.Rmd', dir(directory, pattern = '\\.md$', full.names = TRUE, recursive = TRUE, all.files = TRUE))
-  files[grep('README', files, invert = TRUE)]
+  files[grep('README|html\\/', files, invert = TRUE)]
 }
 
 write_parts <- function() {
-  dirs <- grep('/\\.|public|_targets|R|\\.$', list.dirs('.', recursive = TRUE), value = TRUE, invert = TRUE)
+  dirs <- grep('/\\.|public|_targets|html|R|\\.$', list.dirs('.', recursive = TRUE), value = TRUE, invert = TRUE)
   drop_some <- dirs[grep('topics$|unsorted', dirs, invert = TRUE)]
   lapply(drop_some, function(x) {
     nm <- basename(x)
@@ -24,7 +24,7 @@ chk::chk_equal(nrow(find_within_brackets('README.md')), 0)
 
 vis_network <- function(edges) {
   visIgraph(graph_from_edgelist(as.matrix(edges), directed = FALSE)) %>%
-    visOptions(width = '100%', height = '50%') %>%
+    # visOptions(width = '100%', height = '50%') %>%
     visNodes(font = list(size = 20)) %>%
     visPhysics(stabilization = FALSE, solver = 'barnesHut', barnesHut = list(centralGravity = 0.1))
 }
