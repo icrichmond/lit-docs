@@ -1,5 +1,5 @@
-get_files <- function() {
-  files <- c('index.Rmd', dir('.', pattern = '\\.md$', full.names = TRUE, recursive = TRUE, all.files = TRUE))
+get_files <- function(directory = '.') {
+  files <- c('index.Rmd', dir(directory, pattern = '\\.md$', full.names = TRUE, recursive = TRUE, all.files = TRUE))
   files[grep('README', files, invert = TRUE)]
 }
 
