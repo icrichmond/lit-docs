@@ -1,7 +1,8 @@
-# Whitlock et al. (2011)
+# Whitlock_et_al_2011
 Whitlock, M.C., 2011. Data archiving in ecology and evolution: best practices. _Trends in ecology & evolution_, _26_(2), pp.61-65.
 
 ---
+
 Data should be archived with sufficient clarity and supporting information to actually be useful.
 
 Intellectual debt of data generators should be considered by data users when interacting with the data. Co-authorship is not necessarily required because the data will be cited, but it depends on level of involvement. 

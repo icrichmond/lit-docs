@@ -1,4 +1,4 @@
-# Reasons for closed data
+# reasons-closed-data
 ## Sensitive data
 * [[sensitive-data]]
 
@@ -7,6 +7,7 @@
 
 ## Repeating non-published analyses, eg. insignificant results
 Solutions: 
+
 * Publish a pre-print with your insignificant results
 * Communicate with downstream data users
 * Allow others to explore the data from new perspectives 

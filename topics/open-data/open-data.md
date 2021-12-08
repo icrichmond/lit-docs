@@ -1,4 +1,4 @@
-# Open data
+# open-data
 
 ## Debate
 * [[reasons-open-data]]
@@ -7,7 +7,7 @@
 
 ## Guidelines
 * [[FAIR]]
-* [[Joint_Data_Archiving_Policy]]
+* [[Joint-Data-Archiving-Policy]]
 
 ## Repositories
 * [[data-repositories]]

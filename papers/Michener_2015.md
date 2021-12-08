@@ -1,4 +1,4 @@
-# Michener 2015
+# Michener_2015
 Michener, W.K., 2015. Ecological data sharing. _Ecological informatics_, _29_, pp.33-44.
 
 ---
@@ -12,6 +12,7 @@ Ecologists are continuing to generate large volumes of data
 * [[reproducibility]]
 
 Outside of research
+
 * inform decision making
 * contribute to resource management
 * education
@@ -20,6 +21,7 @@ In some cases, [[open-data]] is the only data available
 
 ## Types of ecological data
 From [[Bowser_1994]], ecological data is:
+
 * Planned, eg long term C02 in Hawaii
 * Opportunistic, eg. short term goals and discrete funding periods
 * Serendipitous, eg. animal harvest data, citizen contributed
@@ -49,8 +51,8 @@ Meanwhile, there are many hidden costs of closed data. [[Uhlir_et_al_2007]]
 * [[ORCID]]
 
 ## Open work
-Open Knowledge and the Open Definition Advisory
-Council defines open work
+Open Knowledge and the Open Definition Advisory Council defines open work
+
 * Open license
 * Access at nominal or no cost, ideally downloadable free on internet
 * Open [[format]]

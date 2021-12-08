@@ -1,0 +1,26 @@
+--- 
+title: "Lit-base"
+author: "Alec L. Robitaille"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::bs4_book
+description: |
+  Lit base.
+link-citations: yes
+---
+
+
+# Lit-base
+Alec L. Robitaille
+
+
+```{r}
+library(targets)
+library(visNetwork)
+
+source('R/functions.R')
+
+tar_load(edges)
+
+vis_network(edges)
+```

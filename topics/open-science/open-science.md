@@ -1,4 +1,4 @@
-# Open science
+# Open-science
 
 ## Initiatives
 * [[Center for Open Science]]

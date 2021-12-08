@@ -1,4 +1,4 @@
-# Structure of animal movement data
+# Structure-of-movement-data
 Longitude
 Latitude
 Date

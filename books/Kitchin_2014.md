@@ -1,4 +1,4 @@
-# Kitchin 2014
+# Kitchin_2014
 Kitchin, R., 2014. _The data revolution: Big data, open data, data infrastructures and their consequences_. Sage.
 
 ---
@@ -39,4 +39,4 @@ Challenges to fund open data, eg. for governments, since the data itself can't b
 1. Third party contracts to manage and host data = likely charging the data users to pay for their contributions
 2. Third party resellers lobbying the gov to restrict data, since they normally sell it
 3. Data sales normally fund gov services
-4. New systems required to make data open and suitable for public (eg. annonymized and/or aggregated). Non-trivial and challenging to justify spending required. 
+4. New systems required to make data open and suitable for public (eg. anonymized and/or aggregated). Non-trivial and challenging to justify spending required. 
