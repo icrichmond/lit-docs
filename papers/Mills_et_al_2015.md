@@ -30,5 +30,5 @@ Missed training opportunities
 ## Solutions to data sharing
 * Collaborate to share
 * Confidential, unpublished data sharing until paper is accepted, then data is destroyed
-* 1-5 year embargo
-* 10-15 year embargo
+* 1-5 year [[embargo]]
+* 10-15 year [[embargo]]
