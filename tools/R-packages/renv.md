@@ -1,2 +1,2 @@
 # renv
-[[reproducibility]] package for package installation, consistent versions, etc 
+[[R]] package for [[reproducibility]], specifically reproducible project environments for versioning installed packages

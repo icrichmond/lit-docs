@@ -20,3 +20,11 @@ Text based file format, non-proprietary [[Whitlock_et_al_2011]]. In the case of 
 
 ## Rights to data
 [[Duke_et_al_2013]] access to data is a right
+
+## Movebank
+Despite the [[MoveBank-Attribute-Dictionary]]'s recommendations, taxonomy is not well structured in some cases
+
+For example, 
+`Aves ,grus grus,anthropoides paradiseus`
+Gets parsed by eg. `taxize` as just "Aves"
+Instead of being separated into *Grus grus* and *Anthropoides paradiseus* (Common crane, blue crane).
