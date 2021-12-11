@@ -33,8 +33,11 @@ open-data-debate
 metadata
 format
 rights-to-data
+movebank
+move
 renv
 targets
+taxize
 animal-movement
 integration-with-open-environmental-data
 icarus
@@ -53,7 +56,10 @@ figshare
 knb
 euromammals
 motus
-movebank
+movebank-attribute-dictionary
+taxonomy
+movebank-1
+database
 movement-databases-1
 oztrack
 wram

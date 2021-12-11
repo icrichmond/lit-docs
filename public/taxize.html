@@ -4,16 +4,16 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>42 reasons-closed-data | Lit-base</title>
+<title>16 taxize | Lit-base</title>
 <meta name="author" content="Alec L. Robitaille">
-<meta name="description" content="42.1 Sensitive data [[sensitive-data]]  42.2 Flawed science [Mills_et_al_2015] mentions “flawed science if data is shared publicly, because only the PIs sufficiently understand the data” - this is...">
+<meta name="description" content="[[R]] package for resolve taxa from names Interacts with [[NCBI]] [taxonomy] database (faster results if you generate an API key, find it here https://www.ncbi.nlm.nih.gov/account/settings/)">
 <meta name="generator" content="bookdown 0.24.1 with bs4_book()">
-<meta property="og:title" content="42 reasons-closed-data | Lit-base">
+<meta property="og:title" content="16 taxize | Lit-base">
 <meta property="og:type" content="book">
-<meta property="og:description" content="42.1 Sensitive data [[sensitive-data]]  42.2 Flawed science [Mills_et_al_2015] mentions “flawed science if data is shared publicly, because only the PIs sufficiently understand the data” - this is...">
+<meta property="og:description" content="[[R]] package for resolve taxa from names Interacts with [[NCBI]] [taxonomy] database (faster results if you generate an API key, find it here https://www.ncbi.nlm.nih.gov/account/settings/)">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="42 reasons-closed-data | Lit-base">
-<meta name="twitter:description" content="42.1 Sensitive data [[sensitive-data]]  42.2 Flawed science [Mills_et_al_2015] mentions “flawed science if data is shared publicly, because only the PIs sufficiently understand the data” - this is...">
+<meta name="twitter:title" content="16 taxize | Lit-base">
+<meta name="twitter:description" content="[[R]] package for resolve taxa from names Interacts with [[NCBI]] [taxonomy] database (faster results if you generate an API key, find it here https://www.ncbi.nlm.nih.gov/account/settings/)">
 <!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/header-attrs-2.11.3/header-attrs.js"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
 <script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.3.1/transition.js"></script><script src="libs/bs3compat-0.3.1/tabs.js"></script><script src="libs/bs3compat-0.3.1/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
@@ -59,7 +59,7 @@
 <li><a class="" href="move.html"><span class="header-section-number">13</span> move</a></li>
 <li><a class="" href="renv.html"><span class="header-section-number">14</span> renv</a></li>
 <li><a class="" href="targets.html"><span class="header-section-number">15</span> targets</a></li>
-<li><a class="" href="taxize.html"><span class="header-section-number">16</span> taxize</a></li>
+<li><a class="active" href="taxize.html"><span class="header-section-number">16</span> taxize</a></li>
 <li class="book-part">Animal-Movement</li>
 <li><a class="" href="animal-movement.html"><span class="header-section-number">17</span> Animal-movement</a></li>
 <li><a class="" href="icarus.html"><span class="header-section-number">18</span> Icarus</a></li>
@@ -91,7 +91,7 @@
 <li><a class="" href="iode.html"><span class="header-section-number">39</span> IODE</a></li>
 <li><a class="" href="joint-data-archiving-policy.html"><span class="header-section-number">40</span> Joint-Data-Archiving-Policy</a></li>
 <li><a class="" href="open-data.html"><span class="header-section-number">41</span> open-data</a></li>
-<li><a class="active" href="reasons-closed-data.html"><span class="header-section-number">42</span> reasons-closed-data</a></li>
+<li><a class="" href="reasons-closed-data.html"><span class="header-section-number">42</span> reasons-closed-data</a></li>
 <li><a class="" href="reasons-open-data.html"><span class="header-section-number">43</span> reasons-open-data</a></li>
 <li><a class="" href="sensitive-data-1.html"><span class="header-section-number">44</span> Sensitive data</a></li>
 <li class="book-part">Open-Science</li>
@@ -109,48 +109,24 @@
         </div>
       </nav>
 </div>
-  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="reasons-closed-data" class="section level1" number="42">
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="taxize" class="section level1" number="16">
 <h1>
-<span class="header-section-number">42</span> reasons-closed-data<a class="anchor" aria-label="anchor" href="#reasons-closed-data"><i class="fas fa-link"></i></a>
+<span class="header-section-number">16</span> taxize<a class="anchor" aria-label="anchor" href="#taxize"><i class="fas fa-link"></i></a>
 </h1>
-<div id="sensitive-data" class="section level2" number="42.1">
-<h2>
-<span class="header-section-number">42.1</span> Sensitive data<a class="anchor" aria-label="anchor" href="#sensitive-data"><i class="fas fa-link"></i></a>
-</h2>
-<ul>
-<li>[[sensitive-data]]</li>
-</ul>
+<p>[[R]] package for resolve taxa from names</p>
+<p>Interacts with [[NCBI]] [<a href="movebank-attribute-dictionary.html#taxonomy">taxonomy</a>] database
+(faster results if you generate an API key, find it here <a href="https://www.ncbi.nlm.nih.gov/account/settings/" class="uri">https://www.ncbi.nlm.nih.gov/account/settings/</a>)</p>
+
 </div>
-<div id="flawed-science" class="section level2" number="42.2">
-<h2>
-<span class="header-section-number">42.2</span> Flawed science<a class="anchor" aria-label="anchor" href="#flawed-science"><i class="fas fa-link"></i></a>
-</h2>
-<p>[<a href="mills_et_al_2015.html#mills_et_al_2015">Mills_et_al_2015</a>] mentions “flawed science if data is shared publicly, because only the PIs sufficiently understand the data” - this is not really relevant to animal movement data because the [<a href="structure-of-movement-data.html#structure-of-movement-data">structure-of-movement-data</a>] is simpler.</p>
-</div>
-<div id="repeating-non-published-analyses-eg.-insignificant-results" class="section level2" number="42.3">
-<h2>
-<span class="header-section-number">42.3</span> Repeating non-published analyses, eg. insignificant results<a class="anchor" aria-label="anchor" href="#repeating-non-published-analyses-eg.-insignificant-results"><i class="fas fa-link"></i></a>
-</h2>
-<p>Solutions:</p>
-<ul>
-<li>Publish a pre-print with your insignificant results</li>
-<li>Communicate with downstream data users</li>
-<li>Allow others to explore the data from new perspectives</li>
-<li>Pre-registration</li>
-</ul>
-</div>
-</div>
-  <div class="chapter-nav">
-<div class="prev"><a href="open-data.html"><span class="header-section-number">41</span> open-data</a></div>
-<div class="next"><a href="reasons-open-data.html"><span class="header-section-number">43</span> reasons-open-data</a></div>
+
+
+
+<div class="chapter-nav">
+<div class="prev"><a href="targets.html"><span class="header-section-number">15</span> targets</a></div>
+<div class="next"><a href="animal-movement.html"><span class="header-section-number">17</span> Animal-movement</a></div>
 </div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
     <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
-      <ul class="nav navbar-nav">
-<li><a class="nav-link" href="#reasons-closed-data"><span class="header-section-number">42</span> reasons-closed-data</a></li>
-<li><a class="nav-link" href="#sensitive-data"><span class="header-section-number">42.1</span> Sensitive data</a></li>
-<li><a class="nav-link" href="#flawed-science"><span class="header-section-number">42.2</span> Flawed science</a></li>
-<li><a class="nav-link" href="#repeating-non-published-analyses-eg.-insignificant-results"><span class="header-section-number">42.3</span> Repeating non-published analyses, eg. insignificant results</a></li>
-</ul>
+      <ul class="nav navbar-nav"><li><a class="nav-link" href="#taxize"><span class="header-section-number">16</span> taxize</a></li></ul>
 
       <div class="book-extra">
         <ul class="list-unstyled">
@@ -159,9 +135,13 @@
 </div>
     </nav>
 </div>
+</div>
+  
+
+  
 
 </div>
-</div> <!-- .container -->
+ <!-- .container -->
 
 <footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
 
