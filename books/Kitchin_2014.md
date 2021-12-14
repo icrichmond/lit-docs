@@ -35,8 +35,8 @@ Requirements of a data sharing infrastructure
 * intellectual property issues
 * wasted effort to archive if it likely wouldn't be used
 
-## Funding open data
-Challenges to fund open data, eg. for governments, since the data itself can't be the source of income. Complications:
+## Funding [[open-data]]
+Challenges to fund [[open-data]], eg. for governments, since the data itself can't be the source of income. Complications:
 1. Third party contracts to manage and host data = likely charging the data users to pay for their contributions
 2. Third party resellers lobbying the gov to restrict data, since they normally sell it
 3. Data sales normally fund gov services
