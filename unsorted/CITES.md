@@ -9,3 +9,21 @@ https://cites.org/eng/app/index.php
 
 https://cites.org/eng/app/appendices.php
 
+## Species checklist
+https://checklist.cites.org/#/en
+"Full species list"
+
+
+
+## Trade database
+Download link: https://trade.cites.org/cites_trade/download_db
+https://trade.cites.org/
+https://trade.cites.org/cites_trade_guidelines/en-CITES_Trade_Database_Guide.pdf
+
+ > **Recommended citation:** UNEP-WCMC (Comps.) 2021. Full CITES Trade Database Download. Version 2021.1. CITES Secretariat, Geneva, Switzerland. Compiled by UNEP-WCMC, Cambridge, UK. Available at: trade.cites.org.
+
+>  **Overview of data**
+>  This zip file contains all trade records (including all historic data) entered in the CITES Trade Database by 10 June 2021 and extracted at the shipment level on 11 June 2021. This file is 2021.v1. Please note that some historic records present in previous versions (2019.2 and 2020.1) may also have been removed or updated (e.g. as a result of nomenclature changes adopted at CoP, or corrections provided by CITES Parties), so we strongly recommend using the most up to date data provided in Version 2021.1.
+>  While the data provided through the search function on the Web Portal of the CITES Trade Database are aggregated, the database contains non-aggregated data. The data provided in this download is on a _per-shipment basis_ i.e. it provides the relevant information about each line item in box 7 to 12 of the CITES permit (in line with Notification No. 2019/072) in a separate row.
+>  Each csv data file contains ~500 thousand rows of data, and files are numbered chronologically with the earliest trade records in the files with the lower numbers. Each trade record is given a unique identifier (Id) that will remain unchanged across versions.
+>  Given their confidential nature, import, export and re-export CITES permit numbers have also been replaced with unique identifiers. This ensures that no confidential data are made available, whilst still enabling users of the data to identify instances where the same permit number may have been used for multiple shipments. The method for generating these unique identifiers is detailed below.
