@@ -4,16 +4,16 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Page not found | Lit-base</title>
+<title>15 rredlist | Lit-base</title>
 <meta name="author" content="Alec L. Robitaille">
-<meta name="description" content="The page you requested cannot be found (perhaps it was moved or renamed). You may want to try searching to find the page's new location, or use the table of contents to find the page you are...">
+<meta name="description" content='rl_citation() #&gt; [1] "IUCN 2015. IUCN Red List of Threatened Species. Version 2020-2 &lt;www.iucnredlist.org&gt;" (update years + version) [[R]] package for interacting with the [IUCN-Red-List]. It does...'>
 <meta name="generator" content="bookdown 0.24.1 with bs4_book()">
-<meta property="og:title" content="Page not found | Lit-base">
+<meta property="og:title" content="15 rredlist | Lit-base">
 <meta property="og:type" content="book">
-<meta property="og:description" content="The page you requested cannot be found (perhaps it was moved or renamed). You may want to try searching to find the page's new location, or use the table of contents to find the page you are...">
+<meta property="og:description" content='rl_citation() #&gt; [1] "IUCN 2015. IUCN Red List of Threatened Species. Version 2020-2 &lt;www.iucnredlist.org&gt;" (update years + version) [[R]] package for interacting with the [IUCN-Red-List]. It does...'>
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Page not found | Lit-base">
-<meta name="twitter:description" content="The page you requested cannot be found (perhaps it was moved or renamed). You may want to try searching to find the page's new location, or use the table of contents to find the page you are...">
+<meta name="twitter:title" content="15 rredlist | Lit-base">
+<meta name="twitter:description" content='rl_citation() #&gt; [1] "IUCN 2015. IUCN Red List of Threatened Species. Version 2020-2 &lt;www.iucnredlist.org&gt;" (update years + version) [[R]] package for interacting with the [IUCN-Red-List]. It does...'>
 <!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/header-attrs-2.11.3/header-attrs.js"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
 <script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.3.1/transition.js"></script><script src="libs/bs3compat-0.3.1/tabs.js"></script><script src="libs/bs3compat-0.3.1/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
@@ -58,7 +58,7 @@
 <li class="book-part">Tools</li>
 <li><a class="" href="move.html"><span class="header-section-number">13</span> move</a></li>
 <li><a class="" href="renv.html"><span class="header-section-number">14</span> renv</a></li>
-<li><a class="" href="rredlist.html"><span class="header-section-number">15</span> rredlist</a></li>
+<li><a class="active" href="rredlist.html"><span class="header-section-number">15</span> rredlist</a></li>
 <li><a class="" href="targets.html"><span class="header-section-number">16</span> targets</a></li>
 <li><a class="" href="taxadb.html"><span class="header-section-number">17</span> taxadb</a></li>
 <li><a class="" href="taxize.html"><span class="header-section-number">18</span> taxize</a></li>
@@ -116,18 +116,62 @@
         </div>
       </nav>
 </div>
-  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="page-not-found" class="section level1">
-<h1>Page not found<a class="anchor" aria-label="anchor" href="#page-not-found"><i class="fas fa-link"></i></a>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="rredlist" class="section level1" number="15">
+<h1>
+<span class="header-section-number">15</span> rredlist<a class="anchor" aria-label="anchor" href="#rredlist"><i class="fas fa-link"></i></a>
 </h1>
-<p>The page you requested cannot be found (perhaps it was moved or renamed).</p>
-<p>You may want to try searching to find the page's new location, or use
-the table of contents to find the page you are looking for.</p>
+<pre><code>rl_citation()
+#&gt; [1] "IUCN 2015. IUCN Red List of Threatened Species. Version 2020-2 &lt;www.iucnredlist.org&gt;"</code></pre>
+<p>(update years + version)</p>
+<hr>
+<p>[[R]] package for interacting with the [<a href="iucn-red-list.html#iucn-red-list">IUCN-Red-List</a>]. It does not include the spatial data.</p>
+<div id="setup" class="section level2" number="15.1">
+<h2>
+<span class="header-section-number">15.1</span> Setup<a class="anchor" aria-label="anchor" href="#setup"><i class="fas fa-link"></i></a>
+</h2>
+<blockquote>
+<p>IUCN requires you to get your own API key, an alphanumeric string that you need to send in every request.</p>
+</blockquote>
+<p>Access it by logging in, then navigating to your profile’s API and making a request.</p>
+</div>
+<div id="challenges" class="section level2" number="15.2">
+<h2>
+<span class="header-section-number">15.2</span> Challenges<a class="anchor" aria-label="anchor" href="#challenges"><i class="fas fa-link"></i></a>
+</h2>
+<p>If</p>
+<pre><code>R: tar_read(classification)[is.na(family), unique(matched_name)]
+  [1] NA                                             
+  [2] "Chlamydotis Lesson, 1839"                     
+  [3] "Anser albifrons (Scopoli, 1769)"              
+  [4] "Phaetusa simplex (Gmelin, 1789)"              
+  [5] "Eidolon helvum (Kerr, 1792)"                  
+...                     
+[198] "Chordata"                                     
+[199] "Mycteria Linnaeus, 1758"                      
+[200] "Cerdocyon thous (Linnaeus, 1766)"             
+[201] "Sula bassanus"                                
+[202] "Equus (Hippotigris) grevyi Oustalet, 1882"   </code></pre>
+
+</div>
 </div>
   <div class="chapter-nav">
-<div class="empty"></div>
-<div class="empty"></div>
+<div class="prev"><a href="renv.html"><span class="header-section-number">14</span> renv</a></div>
+<div class="next"><a href="targets.html"><span class="header-section-number">16</span> targets</a></div>
 </div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
-    </div>
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav">
+<li><a class="nav-link" href="#rredlist"><span class="header-section-number">15</span> rredlist</a></li>
+<li><a class="nav-link" href="#setup"><span class="header-section-number">15.1</span> Setup</a></li>
+<li><a class="nav-link" href="#challenges"><span class="header-section-number">15.2</span> Challenges</a></li>
+</ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+          
+        </ul>
+</div>
+    </nav>
+</div>
 
 </div>
 </div> <!-- .container -->
