@@ -35,3 +35,4 @@ Found variation within biome and within ecosystem, and variation was mediated by
 
 ## Supplement
 https://www.sciencebase.gov/catalog/item/5c05588ae4b0815414cc8337
+https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-020-75273-5/MediaObjects/41598_2020_75273_MOESM1_ESM.docx
