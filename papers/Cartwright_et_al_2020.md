@@ -13,10 +13,20 @@ EVI vs NDVI - NDVI saturates in high biomass areas
 
 EVI imagery used: MODIS MOD13A3 monthly 1-km
 
-Masking: cloud, snow, ice
-Masking: fire, percent burned in each pixel > 10%. Sum Monitoring Trends in Burn Severity dataset 1984-2015.
+Masking: 
+- cloud, snow, ice
+- insect outbreak
+- only include forest and shrub
+- fire, percent burned in each pixel > 10%. Sum Monitoring Trends in Burn Severity dataset 1984-2015.
 
-SPEI: standardized precipitation evapotranspiration index. SPEI 3 = summer, SPEI 6 = summer + winter + early spring drough, SPEI 12 = previous year
+SPEI: 
+- standardized precipitation evapotranspiration index
+- SPEI 3 = summer
+- SPEI 6 = summer + winter + early spring drought
+- SPEI 12 = previous year
+
+Drought sensitivity = % decrease greenness vs baseline, during drought
+
 
 ## Results
 Caveat: RS measured vegetation responses to drought only those which have canopy level responses
