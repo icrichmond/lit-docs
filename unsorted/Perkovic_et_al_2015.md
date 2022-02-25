@@ -8,3 +8,6 @@ DAG: directed acyclic graph
 MAG: maximal ancestral graphs
 CPDAG: completed partially directed acyclic graph
 PAG:  partial ancestral grap
+
+
+Used where adjustmentSets effect = 'total'
