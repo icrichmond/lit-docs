@@ -4,7 +4,7 @@ Perković, E., Textor, J., Kalisch, M. and Maathuis, M.H., 2015. A complete gene
 
 ---
 
-DAG: directed acyclic graph
+[[DAG]]: directed acyclic graph
 MAG: maximal ancestral graphs
 CPDAG: completed partially directed acyclic graph
 PAG:  partial ancestral grap
