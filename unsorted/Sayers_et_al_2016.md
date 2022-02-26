@@ -2,9 +2,10 @@
 
 Sayers, P.B., Li Yuanyuan, Moncrieff, C, Li Jianqiang, Tickner, D., Xu Xiangyu,  
 Speed, R., Li Aihua, Lei Gang, Qiu Bing, Wei Yu and Pegram G. (2016) Drought risk management: A strategic approach. Published by UNESCO, Paris on behalf of WWF.
+https://www.droughtmanagement.info/literature/GIWP-WWF-Drought-risk-management-2016.pdf
 
 ---
-Drought is divided into three main types (from the glossary):
+[[drought]] is divided into three main types (from the glossary):
 - Meterological
 	- Meterological drought: A temporary, negative and severe deviation from average precipitation values that persists for a sufficient period of time to significantly reduce blue-water or green-water resources in a river basin or region.
 - Blue-water
@@ -15,4 +16,4 @@ Drought is divided into three main types (from the glossary):
 	- Green-water drought: an unusual and significant deficiency in the water stored in the soil layer (from which plants and crops normally draw their water) and / or in vegetation itself.
 
 
-![[Pasted image 20220225163422.png]]
+![[Pasted image 20220225164058.png]]
