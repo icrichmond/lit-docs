@@ -1,5 +1,6 @@
 # EVI
 Enhanced vegetation index
+[[spectral-indices]]
 
 [[EVI]] is similar to [[NDVI]] but adds some corrective enhancements 
 
