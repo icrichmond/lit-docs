@@ -9,7 +9,7 @@ https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.14809
 
 Response to [[Slette_et_al_2020]]
 
-Standardized measures
+Standardized measures of [[drought]]
 - reflect deviations from the mean
 - are sensitive to the distribution of values in the reference period
 

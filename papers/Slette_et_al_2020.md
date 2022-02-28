@@ -6,7 +6,7 @@ https://www.researchgate.net/profile/Ingrid-Slette/publication/334269233_How_eco
 
 ---
 
-The authors reviewed 564 papers and summarized how drought is defined or described
+The authors reviewed 564 papers and summarized how [[drought]] is defined or described
 
 ![[Pasted image 20220225183007.png]]
 
