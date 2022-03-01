@@ -4,7 +4,7 @@ Cartwright, Jennifer M., et al. "Topographic, soil, and climate drivers of droug
 
 ---
 ## Intro
-[[climate-change]] is likely to increase the frequency and intensity of droughts. We need broad scale assessments of vegetation responses to [[drought]].  Biomes differ in timeline responses to [[drought]]. 
+[[climate-change]] is likely to increase the frequency and intensity of droughts. We need broad scale assessments of [[vegetation]] responses to [[drought]].  Biomes differ in timeline responses to [[drought]]. 
 
 ## Methods
 Measured drought sensitivity as the percent decrease in greenness under drought vs baseline. [[EVI]] strongly correlates with annual aboveground net primary production (ANPP), therefore can be used as a proxy. 
@@ -29,7 +29,7 @@ Drought sensitivity = % decrease greenness vs baseline, during drought
 
 
 ## Results
-Caveat: RS measured vegetation responses to drought only those which have canopy level responses
+Caveat: RS measured [[vegetation]] responses to [[drought]] only those which have canopy level responses
 
 Found variation within biome and within ecosystem, and variation was mediated by topography, climate and soil characteristics
 

@@ -1,6 +1,6 @@
 # NDVI
 
-Normalized difference vegetation index
+Normalized difference [[vegetation]] index
 [[spectral-indices]]
 
 $NDVI = NIR - RED / NIR + RED$

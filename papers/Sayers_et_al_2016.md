@@ -12,7 +12,7 @@ https://www.droughtmanagement.info/literature/GIWP-WWF-Drought-risk-management-2
 	- Blue-water: freshwater found on the surface (in lakes and rivers) or in the ground (in aquifers).  
 	- Blue-water drought: An unusual and significant deficiency in the water stored in freshwater lakes, rivers, aquifers and wetlands.
 - Green-water
-	- Green-water: the precipitation on land that does not run off (to rivers or lakes) or recharge groundwater but is stored in, or on top, of the soil or vegetation. Eventually, this part of precipitation is lost through  evaporation or transpiration.
+	- Green-water: the precipitation on land that does not run off (to rivers or lakes) or recharge groundwater but is stored in, or on top, of the soil or [[vegetation]]. Eventually, this part of precipitation is lost through  evaporation or transpiration.
 	- Green-water drought: an unusual and significant deficiency in the water stored in the soil layer (from which plants and crops normally draw their water) and / or in vegetation itself.
 
 
