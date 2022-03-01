@@ -9,12 +9,14 @@ mit-causal-inference-2019
 rubin-neyman
 typical-assumptions
 statistical-rethinking
+ahmadalipour_et_al_2017
 avetisyan_et_al_2021
 cartwright_et_al_2020
 intro
 methods
 results
 supplement
+cavin_et_al_2017
 claverie_et_al_2018
 duke_et_al_2013
 greenland_et_al_1999
@@ -54,8 +56,10 @@ format-recommendations
 reasons-to-archive-data-publicly
 reasons-not-to-archive-data-publicly-1
 wulder_et_al_2019
+yu_et_al_2014
 zang_et_al_2020
 zargar_et_al_2011
+zhang_et_al_2013
 zhang_et_al_2017
 zhu_et_al_2019
 drought-sensitivity-refugia
