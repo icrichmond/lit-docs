@@ -5,6 +5,7 @@ Ji, L. and Peters, A.J., 2003. Assessing vegetation response to drought in the n
 https://www.researchgate.net/profile/Lei-Ji-5/publication/223899366_Assessing_vegetation_response_to_drought_in_the_northern_Great_Plains_using_vegetation_and_drought_indices/links/5acce26d0f7e9b1896546129/Assessing-vegetation-response-to-drought-in-the-northern-Great-Plains-using-vegetation-and-drought-indices.pdf
 
 ---
+
 Authors assess [[vegetation]] responses to [[drought]]
 
 [[SPI]] is based on precipitation only. [[SPI]] proposed categories are 
