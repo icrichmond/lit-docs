@@ -6,14 +6,15 @@ Mostly notes from [[Belcher_2019]]
 **It can be really valuable to write a post-draft outline, to help identify if the idea is sufficiently focused, or to review how it is more broadly structured** 
 
 ## Macrostructures
-Description
-Sequence
-Causation
-Problem-solution
-Comparison
+- Description
+- Sequence
+- Causation
+- Problem-solution
+- Comparison
 
 ## Reader knowledge oriented order
 Use these for framing an intro or an outline or a full paper. Starting with...
+
 * Familiar. What we assume the readers know -> less familiar
 * Easy. Simple -> complex
 * Accepted. Uncontested -> contested
@@ -27,9 +28,9 @@ Use these for framing an intro or an outline or a full paper. Starting with...
 Within a paragraph or across the paper:
 
 - General statement
-- -- More evidence
-- --- Summary and interpretation
-- - Connect to a new idea
+- --> More evidence
+- ---> Summary and interpretation
+- --> Connect to a new idea
 - whose endpoint is beyond this paragraph
 
 ## Structure signals

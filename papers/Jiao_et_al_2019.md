@@ -11,6 +11,7 @@ Solar induced fluorescence ([[SIF]]) is related to the "functional status of pho
 [[SIF]] can be used to monitor drought impacts on vegetation dynamics using a departure from the multiyear mean
 
 The authors correlated [[SIF]] to 
+
 - [[SPI]] (historical distribution of precipitation)
 - [[TCI]] (temperature)
 - [[SPEI]] (precipitation and temperature)

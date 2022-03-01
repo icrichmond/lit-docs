@@ -14,4 +14,7 @@ Standardized measures of [[drought]]
 - are sensitive to the distribution of values in the reference period
 
 They highlight the difference between standardized values (SPEI) and P-PET. P-PET is sometimes referred to as climatic water balance, the difference between precipitation and potential evapotranspiration 
+
 ![[Pasted image 20220225185111.png]]
+
+![](images/Pasted image 20220225185111.png)

@@ -9,6 +9,7 @@ https://www.researchgate.net/profile/Lei-Ji-5/publication/223899366_Assessing_ve
 Authors assess [[vegetation]] responses to [[drought]]
 
 [[SPI]] is based on precipitation only. [[SPI]] proposed categories are 
+
 - extremely wet (> 2.0)
 - very wet (1.5 to 1.99)
 - moderately  wet (1.0 to 1.49)

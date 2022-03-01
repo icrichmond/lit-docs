@@ -19,6 +19,7 @@ Writing one helps to identify a lack of focus
 ## Types of abstracts
 ### Structured
 eg. 
+
 * Objective
 * Design
 * Methods
@@ -27,6 +28,7 @@ eg.
 
 ### Nonstructured
 eg. 5 senstences
+
 1. background
 2. aims + objectives
 3. methods

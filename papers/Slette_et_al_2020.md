@@ -9,12 +9,15 @@ https://www.researchgate.net/profile/Ingrid-Slette/publication/334269233_How_eco
 The authors reviewed 564 papers and summarized how [[drought]] is defined or described
 
 ![[Pasted image 20220225183007.png]]
+![](images/Pasted image 20220225183007.png)
 
 ![[Pasted image 20220225183228.png]]
+![](images/Pasted image 20220225183228.png)
 
 Of the publications that did not clearly define drought, only 50% were found to measuring local regions in periods that were < -1 SPEI  
 
 Authors' recommendations: 
+
 > we urge ecologists to utilize standardized indices (e.g.,  
 PDSI, SPEI) to characterize these droughts whenever possible. In  
 addition to reporting average and minimum index values during the  
