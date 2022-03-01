@@ -4,7 +4,7 @@ get_files <- function(directory = '.') {
 }
 
 write_parts <- function() {
-  dirs <- grep('/\\.|public|_targets|html|images|_unsorted|libs|R|\\.$', list.dirs('.', recursive = TRUE), value = TRUE, invert = TRUE)
+  dirs <- grep('/\\.|public|_targets|html|images|\\_unsorted|libs|R|\\_book|\\.$', list.dirs('.', recursive = TRUE), value = TRUE, invert = TRUE)
   sel_parts <- dirs[grep('topics$', dirs, invert = TRUE)]
   lapply(sel_parts, function(x) {
     nm <- basename(x)
@@ -20,7 +20,7 @@ find_within_brackets <- function(filepath) {
   DT <- data.table(links_to = links)[, links_from := basename(sans_ext(filepath))]
   return(DT[links_to != links_from])
 }
-chk::chk_equal(nrow(find_within_brackets('README.md')), 0)
+# chk::chk_equal(nrow(find_within_brackets('README.md')), 0)
 
 vis_network <- function(edges) {
   visIgraph(graph_from_edgelist(as.matrix(edges), directed = FALSE)) %>%
@@ -32,7 +32,7 @@ vis_network <- function(edges) {
 write_rmd_files <- function(files) {
   lns <- readLines('_bookdown.yml')
   ln <- grep('rmd_files', lns)
-  replace_ln <- paste0('  ', 'rmd_files: [',
+  replace_ln <- paste0('rmd_files: [',
                        paste0(paste0('"', files, '"'), collapse = ','),
                        ']')
   lns[ln] <- replace_ln
