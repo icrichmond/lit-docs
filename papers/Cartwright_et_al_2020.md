@@ -2,7 +2,9 @@
 
 Cartwright, Jennifer M., et al. "Topographic, soil, and climate drivers of drought sensitivity in forests and shrublands of the Pacific Northwest, USA." _Scientific reports_ 10.1 (2020): 1-13.
 
+
 ---
+
 ## Intro
 [[climate-change]] is likely to increase the frequency and intensity of droughts. We need broad scale assessments of [[vegetation]] responses to [[drought]].  Biomes differ in timeline responses to [[drought]]. 
 

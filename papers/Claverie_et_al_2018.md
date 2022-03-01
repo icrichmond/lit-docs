@@ -4,6 +4,7 @@ Claverie, M., Ju, J., Masek, J.G., Dungan, J.L., Vermote, E.F., Roger, J.C., Ska
 https://www.sciencedirect.com/science/article/pii/S0034425718304139
 
 ---
+
 [[remote-sensing]] 
 
 [[Sentinel-2]] and [[Landsat]] harmonization

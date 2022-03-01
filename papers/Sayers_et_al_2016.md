@@ -5,6 +5,7 @@ Speed, R., Li Aihua, Lei Gang, Qiu Bing, Wei Yu and Pegram G. (2016) Drought ris
 https://www.droughtmanagement.info/literature/GIWP-WWF-Drought-risk-management-2016.pdf
 
 ---
+
 [[drought]] is divided into three main types (from the glossary):
 - Meterological
 	- Meterological drought: A temporary, negative and severe deviation from average precipitation values that persists for a sufficient period of time to significantly reduce blue-water or green-water resources in a river basin or region.
