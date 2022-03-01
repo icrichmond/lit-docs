@@ -4,14 +4,14 @@ get_files <- function(directory = '.') {
 }
 
 write_parts <- function() {
-  dirs <- grep('/\\.|public|_targets|html|R|\\.$', list.dirs('.', recursive = TRUE), value = TRUE, invert = TRUE)
-  drop_some <- dirs[grep('topics$|unsorted', dirs, invert = TRUE)]
-  lapply(drop_some, function(x) {
+  dirs <- grep('/\\.|public|_targets|html|images|_unsorted|libs|R|\\.$', list.dirs('.', recursive = TRUE), value = TRUE, invert = TRUE)
+  sel_parts <- dirs[grep('topics$', dirs, invert = TRUE)]
+  lapply(sel_parts, function(x) {
     nm <- basename(x)
     writeLines(paste0('# (PART) ', stringi::stri_trans_totitle(nm), ' {-}'),
                file.path(x, paste0('aa_index_', nm, '.md')))
   })
-  drop_some
+  sel_parts
 }
 
 find_within_brackets <- function(filepath) {
