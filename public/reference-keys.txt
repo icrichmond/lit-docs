@@ -4,6 +4,7 @@ data-classifications
 misc
 disincentives-to-sharing-data
 funding-open-data
+mcelreath_2020
 mit-causal-inference-2019
 rubin-neyman
 typical-assumptions
