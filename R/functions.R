@@ -32,7 +32,7 @@ vis_network <- function(edges) {
 write_rmd_files <- function(files) {
   lns <- readLines('_bookdown.yml')
   ln <- grep('rmd_files', lns)
-  replace_ln <- paste0('rmd_files: [',
+  replace_ln <- paste0('  ', 'rmd_files: [',
                        paste0(paste0('"', files, '"'), collapse = ','),
                        ']')
   lns[ln] <- replace_ln
