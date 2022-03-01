@@ -1,5 +1,6 @@
 # Outlines
 [[writing]] outlines for papers
+
 Mostly notes from [[Belcher_2019]] 
 
 ## General
