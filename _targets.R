@@ -8,6 +8,9 @@ library(igraph)
 library(visNetwork)
 library(stringi)
 library(bookdown)
+library(fs)
+library(kableExtra)
+
 
 source('R/functions.R')
 

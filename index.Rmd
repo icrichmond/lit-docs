@@ -26,3 +26,9 @@ visSave(vis_network(edges), 'html/viz.html')
 
 htmltools::includeHTML('html/viz.html')
 ```
+
+
+```{r}
+#| echo = FALSE
+get_recent_pages(10)
+```
