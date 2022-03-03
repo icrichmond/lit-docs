@@ -11,6 +11,7 @@ typical-assumptions
 statistical-rethinking
 ahmadalipour_et_al_2017
 avetisyan_et_al_2021
+barnes_et_al_2016
 cartwright_et_al_2020
 intro
 methods
@@ -29,6 +30,7 @@ remote-sensing-data
 vegetation-response-to-drought
 flash-drought-3.6.
 kannenberg_et_al_2020
+mckee_et_al_1993
 michener_2015
 uses-of-open-data
 types-of-ecological-data
@@ -46,7 +48,9 @@ solutions-to-data-sharing
 perkovic_et_al_2015
 sayers_et_al_2016
 slette_et_al_2020
+sori_et_al_2021
 uhlir_et_al_2007
+us_drought_monitor
 vincente-serrano_et_al_2010
 vincente-serrano_et_al_2013
 wang_et_al_2007
@@ -159,6 +163,7 @@ ndvi
 remote-sensing
 spectral-indices
 spei
+spi
 reproducibility
 abstracts
 general
