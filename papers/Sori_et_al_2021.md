@@ -6,7 +6,7 @@ https://www.mdpi.com/2673-4931/8/1/40/pdf
 
 ---
 
-[[SPEI]], 1950-2019, Puerto Rico, 1 month antecedent 
+[[SPEI]], 1950-2019, Puerto Rico, 1 month antecedent, using [[Daymet]]
 
 Defining drought (using [[SPEI]]) using definitions for [[drought]] based on [[SPI]] thresholds defined in [[McKee_et_al_1993]]
 
