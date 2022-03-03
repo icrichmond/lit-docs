@@ -1,5 +1,8 @@
+# Svoboda_et_al_2022
 
-# US_Drought_Monitor
+Svoboda, M., LeComte, D., Hayes, M., Heim, R., Gleason, K., Angel, J., Rippey, B., Tinker, R., Palecki, M., Stooksbury, D. and Miskus, D., 2002. The drought monitor. _Bulletin of the American Meteorological Society_, _83_(8), pp.1181-1190.
+
+https://journals.ametsoc.org/view/journals/bams/83/8/1520-0477-83_8_1181.xml
 
 https://droughtmonitor.unl.edu/About/AbouttheData/DroughtClassification.aspx
 
