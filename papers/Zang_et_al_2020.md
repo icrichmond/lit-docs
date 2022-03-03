@@ -1,4 +1,3 @@
-
 # Zang_et_al_2020
 
 Zang, C.S., Buras, A., Esquivel‐Muelbert, A., Jump, A.S., Rigling, A. and Rammig, A., 2020. Standardized drought indices in ecological research: Why one size does not fit all. _Global Change Biology_, _26_(2), pp.322-324.
