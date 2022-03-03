@@ -61,3 +61,19 @@ check_files_for_bs4 <- function(files) {
     # )
   )
 }
+
+
+get_recent_pages <- function(N = 10) {
+  ls_files <- dir_ls('.', glob = '*.md', recurse = TRUE)
+  
+  DT <- rbindlist(lapply(ls_files, file_info))
+  sub <- DT[!grepl('unsorted|index|README', path)]
+  setorder(sub, -change_time)
+  
+  get_html_link <- function(path) {
+    base <- basename(with_ext(path, 'html'))
+    cell_spec(sans_ext(base), 'html', link = base)
+  }
+  
+  sub[seq.int(N), .(path, get_html_link(path), change_time)]
+}
