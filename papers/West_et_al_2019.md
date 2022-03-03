@@ -68,7 +68,7 @@ Limitations of [[NDVI]]:
 - [[NDVI]] is influenced by soil brightness where [[vegetation]] density is low
 - also limited in high density biomass environments
 
-An alternative or improvement is the Vegetation Health Index [[VHI]] [[Kogan_et_al_1997]]. The [[VHI]] is a weighted average of two sub indices
+An alternative or improvement is the Vegetation Health Index [[VHI]] [[Kogan_1997]]. The [[VHI]] is a weighted average of two sub indices
 
 VCI = ((NDVI - NDVI min) X 100) / (NDVI max - NDVI min)
 TCI = ((BT max - BT) X 100) / (BT max - BT min)
