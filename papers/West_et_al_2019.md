@@ -10,7 +10,7 @@ http://agri.ckcest.cn/file1/M00/0E/C9/Csgk0F2MZRaAbujrABTiyhZ7Uyg676.pdf
 
 There is no universal definition of drought. The simplest is a water deficit when compared normal conditions. Droughts have slow, prolonged impacts. 
 
-Historically drought monitoring:
+Historically [[drought]] monitoring:
 
 - In-situ station based measurements
 	- [[PDSI]]
@@ -82,7 +82,7 @@ GPP [[primary-productivity]]: rate at which [[vegetation]] converts light into e
 
 ## Integrated approaches
 
-[[Zhang_et_al_2017]] recommend multi index approaches
+[[Zhang_et_al_2017a]] recommend multi index approaches
 
 Synthesized Drought Index [[SDI]] [[Du_et_al_2012]]: 
 

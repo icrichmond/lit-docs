@@ -6,7 +6,7 @@ https://www.pnas.org/content/110/1/52
 
 ---
 
-[[vegetation]] responses to [[drought]] across biomes using three measures:
+[[vegetation]] responses to [[drought]] across [[biomes]] using three measures:
 
 - [[vegetation]] [[spectral-indices]] using [[remote-sensing]] imagery
 - [[ANPP]] above ground [[primary-productivity]]
@@ -14,7 +14,7 @@ https://www.pnas.org/content/110/1/52
 
 Authors' results: 
 - Arid biomes respond to [[drought]] at short time scales
-- Humid biomes respond to [[drought]] at short time scales, but likely using different physiological mechanisms than [[vegetation]] in arid biomes
+- Humid biomes respond to [[drought]] at short time scales, but likely using different physiological mechanisms than [[vegetation]] in arid [[biomes]]
 - Semi-arid and sub-humid biomes responded to [[drought]] at long time scales due to ability to withstand water deficit but lack of rapid response of vegetation in arid biomes
 
 Results were consistent for all 3 vegetation measures
