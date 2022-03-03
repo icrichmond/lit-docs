@@ -1,4 +1,7 @@
 lit-base
+stagge_et_al_2015
+touma_et_al_2015
+tvmdi
 kitchin_2014
 data-classifications
 misc
@@ -12,6 +15,7 @@ statistical-rethinking
 ahmadalipour_et_al_2017
 avetisyan_et_al_2021
 barnes_et_al_2016
+brown_et_al_2008
 cartwright_et_al_2020
 intro
 methods
@@ -19,6 +23,7 @@ results
 supplement
 cavin_et_al_2017
 claverie_et_al_2018
+du_et_al_2012
 duke_et_al_2013
 greenland_et_al_1999
 hunt_et_al_1989
@@ -30,6 +35,7 @@ remote-sensing-data
 vegetation-response-to-drought
 flash-drought-3.6.
 kannenberg_et_al_2020
+kogan_1997
 mckee_et_al_1993
 michener_2015
 uses-of-open-data
@@ -54,6 +60,12 @@ uhlir_et_al_2007
 vincente-serrano_et_al_2010
 vincente-serrano_et_al_2013
 wang_et_al_2007
+west_et_al_2019
+introduction
+precipitation-monitoring
+evapotranspiration-monitoring
+vegetation-and-soil-monitoring
+integrated-approaches
 whitlock_et_al_2010
 whitlock_et_al_2011
 format-recommendations
@@ -129,6 +141,7 @@ the-fork
 the-pipe
 the-collider
 the-descendant
+pca
 dataseer
 fair
 httpswww.go-fair.orgfair-principles
@@ -160,7 +173,9 @@ nasa
 policy
 available-data
 ndvi
+pdsi
 remote-sensing
+sdi
 spectral-indices
 spei
 spi
