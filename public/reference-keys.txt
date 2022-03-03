@@ -2,6 +2,7 @@ lit-base
 stagge_et_al_2015
 touma_et_al_2015
 tvmdi
+zhang_et_al_2017a
 kitchin_2014
 data-classifications
 misc
