@@ -10,7 +10,7 @@ Monthly aggregated [[Daymet]] -> PET -> SPEI
 
 Using the [[R]] package "SPEI"
 
-Definitions of [[drought]], based on [[SPI]] classification by [[Svoboda_et_al_2022]]:
+Definitions of [[drought]], based on [[SPI]] classification by [[Svoboda_et_al_2002]]:
 
 - > 0.5: wet spell
 - -0.5, 0.5: normal

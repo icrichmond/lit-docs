@@ -1,4 +1,4 @@
-# Svoboda_et_al_2022
+# Svoboda_et_al_2002
 
 Svoboda, M., LeComte, D., Hayes, M., Heim, R., Gleason, K., Angel, J., Rippey, B., Tinker, R., Palecki, M., Stooksbury, D. and Miskus, D., 2002. The drought monitor. _Bulletin of the American Meteorological Society_, _83_(8), pp.1181-1190.
 
