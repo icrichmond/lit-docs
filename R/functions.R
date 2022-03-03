@@ -75,5 +75,6 @@ get_recent_pages <- function(N = 10) {
     cell_spec(sans_ext(base), 'html', link = base)
   }
   
-  sub[seq.int(N), .(path, get_html_link(path), change_time)]
+  sub[seq.int(N), .(Link = get_html_link(path), Modified = change_time)] |> 
+    kable(format = 'html', escape = FALSE)
 }
