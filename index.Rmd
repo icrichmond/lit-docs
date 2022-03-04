@@ -28,6 +28,8 @@ htmltools::includeHTML('html/viz.html')
 ```
 
 
+Most recently modified pages: 
+
 ```{r}
 #| echo = FALSE
 get_recent_pages(10)
