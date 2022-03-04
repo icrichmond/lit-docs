@@ -72,7 +72,7 @@ get_recent_pages <- function(N = 10) {
   
   get_html_link <- function(path) {
     base <- basename(with_ext(path, 'html'))
-    cell_spec(sans_ext(base), 'html', link = base)
+    cell_spec(sans_ext(base), 'html', link = tolower(base))
   }
   
   sub[seq.int(N), .(Link = get_html_link(path), Modified = change_time)] |> 
