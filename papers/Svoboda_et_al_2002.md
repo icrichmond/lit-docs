@@ -8,6 +8,8 @@ https://droughtmonitor.unl.edu/About/AbouttheData/DroughtClassification.aspx
 
 ---
 
+![[Pasted image 20220303165306.png]]
+![](images/Pasted image 20220303165306.png)
 
 | Category | Description | Palmer Drought Severity Index (PDSI) | CPC Soil Moisture Model (Percentiles) | USGS Weekly Streamflow (Percentiles) | Standardized Precipitation Index (SPI) | Objective Drought Indicator Blends (Percentiles) |
 |----------|-------------|--------------------------------------|---------------------------------------|--------------------------------------|----------------------------------------|--------------------------------------------------|
