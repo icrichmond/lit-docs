@@ -1,4 +1,3 @@
-
 # Sholihah_et_al_2016
 
 Sholihah, R.I., Trisasongko, B.H., Shiddiq, D., La Ode, S.I., Kusdaryanto, S. and Panuju, D.R., 2016. Identification of agricultural drought extent based on vegetation health indices of landsat data: case of Subang and Karawang, Indonesia. _Procedia Environmental Sciences_, _33_, pp.14-20.
