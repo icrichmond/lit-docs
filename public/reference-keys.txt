@@ -1,6 +1,4 @@
 lit-base
-carlson_et_al_1997
-ged
 kitchin_2014
 data-classifications
 misc
@@ -19,6 +17,7 @@ avetisyan_et_al_2021
 bachmair_et_al_2016
 barnes_et_al_2016
 brown_et_al_2008
+carlson_et_al_1997
 cartwright_et_al_2020
 intro
 methods
@@ -192,6 +191,7 @@ open-science
 initiatives
 drought-index
 evi
+ged
 gleam
 landsat-1
 lst
