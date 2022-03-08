@@ -13,3 +13,4 @@ VCI = ((NDVI - NDVI min) X 100) / (NDVI max - NDVI min)
 
 VCI ranges from 0-100
 
+Uses a compound median filter on [[NDVI]]
