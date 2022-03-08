@@ -6,7 +6,7 @@ https://www.mdpi.com/2072-4292/9/8/831/pdf
 
 ---
 
-[[MODIS]] [[drought]] monitoring with [[NDVI]] using [[VCI]] 
+[[MODIS]] [[drought]] monitoring with [[NDVI]] using [[VCI]]
 [[TRMM]] derived [[SPI]]
 
 [[drought]] classifications based on [[Svoboda_et_al_2002]] (SPI), [[Klisch_et_al_2016]] (VCI)
@@ -15,3 +15,8 @@ https://www.mdpi.com/2072-4292/9/8/831/pdf
 * Severe drought: −2 < SPI ≤ −1.5, 10 ≤ VCI ≤ 20
 * Moderate drought: −1.5 < SPI ≤ −1, 20 < VCI < 35  
 * No drought: SPI > −1, VCI ≥ 35
+
+
+MODIS (8 day composite) -> NDVI -> [[VCI]]
+
+[[VCI]] min/max for each of the composites through the specified period min year - max year
