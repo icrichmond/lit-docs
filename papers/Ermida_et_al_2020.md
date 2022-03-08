@@ -25,11 +25,11 @@ Total column water vapour [[TCWW]] from NCEP/NCAR reanalysis data is the only gl
 
 
 ### Surface emissivity
-ASTER GED v3 - Global Emissivity Dataset
+ASTER [[GED]] v3 - Global Emissivity Dataset
 
 Either use the GED emissivity product directly, or correct using [[NDVI]]
 
-To correct using [[NDVI]], calculate the fractional vegetation cover [[FVC]] according to [[Carloson_et_al_1997]]
+To correct using [[NDVI]], calculate the fractional vegetation cover [[FVC]] according to [[Carlson_et_al_1997]]
 
 FVC = ((NDVI - NDVI bare) / (NDVI veg - NDVI base)) ^ 2
 
