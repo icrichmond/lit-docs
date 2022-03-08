@@ -6,4 +6,6 @@ https://www.sciencedirect.com/science/article/pii/S1878029616002164
 
 ---
 
-[[Landsat]] [[LST]] [[NDVI]] [[VHI]]
+[[Landsat]] [[LST]] [[NDVI]] [[VHI]] 
+
+Authors found an increase in temperature was the predominant contributor to [[drought]] severity in their study region with a lesser contribution from a decreasing trend in [[NDVI]] over the time series. 
