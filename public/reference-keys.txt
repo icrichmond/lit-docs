@@ -1,4 +1,6 @@
 lit-base
+carlson_et_al_1997
+ged
 kitchin_2014
 data-classifications
 misc
@@ -27,6 +29,11 @@ claverie_et_al_2018
 du_et_al_2012
 duke_et_al_2013
 ermida_et_al_2020
+methods-1
+landsat
+atmospheric-data
+surface-emissivity
+statistical-mono-window
 ghaleb_et_al_2015
 greenland_et_al_1999
 hao_et_al_2014
@@ -186,7 +193,7 @@ initiatives
 drought-index
 evi
 gleam
-landsat
+landsat-1
 lst
 msi
 nasa
