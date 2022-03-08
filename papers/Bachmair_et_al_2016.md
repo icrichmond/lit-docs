@@ -6,7 +6,7 @@ https://www.researchgate.net/profile/Sophie-Bachmair/publication/302980152_Droug
 
 [[drought-index]] reviewed
 
-DEWS: droughht early warning system
+DEWS: [[drought]] early warning system
 
 [[Lloyd_Hughes_2014]] list >100 [[drought-index]]
 
@@ -17,8 +17,3 @@ Previous reviews of [[drought-index]] do not consider the gap between scientific
 - Table 1 lists reviews on [[drought-index]]
 - Table 2 lists reviews on [[drought]] impacts
 - Table 3 lists papers linking indicators-indicators or indicators-impacts
-
-
-
-
-
