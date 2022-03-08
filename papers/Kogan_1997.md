@@ -6,6 +6,8 @@ https://web.iitd.ac.in/~sagnik/C2.pdf
 
 ---
 
+Defines the [[VHI]]
+
 [[VCI]] based on [[NDVI]] defined in [[Kogan_1995a]]
 [[TCI]] based on brightness temperature defined in [[Kogan_1995b]]
 In case of drought, NDVI is high and BT is low. 
