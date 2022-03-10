@@ -8,8 +8,8 @@ https://www.droughtmanagement.info/literature/GIWP-WWF-Drought-risk-management-2
 
 [[drought]] is divided into three main types (from the glossary):
 
-- Meterological
-	- Meterological drought: A temporary, negative and severe deviation from average precipitation values that persists for a sufficient period of time to significantly reduce blue-water or green-water resources in a river basin or region.
+- Meteorological
+	- Meteorological drought: A temporary, negative and severe deviation from average precipitation values that persists for a sufficient period of time to significantly reduce blue-water or green-water resources in a river basin or region.
 - Blue-water
 	- Blue-water: freshwater found on the surface (in lakes and rivers) or in the ground (in aquifers).  
 	- Blue-water drought: An unusual and significant deficiency in the water stored in freshwater lakes, rivers, aquifers and wetlands.

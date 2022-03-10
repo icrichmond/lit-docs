@@ -19,7 +19,7 @@ http://agri.ckcest.cn/file1/M00/02/8E/Csgk0WAfz42AdvneAC6QJYB2jT4935.pdf
 Types of [[drought]]:
 
 - agricultural
-- meterological
+- meteorological
 - hydrological
 - socioeconomic
 - flash drought
@@ -36,12 +36,12 @@ Advantages of a multi-sensor approach
 
 ## [[remote-sensing]] data
 
-- Precipitation: principal variable for identifying and defining meterological drought
+- Precipitation: principal variable for identifying and defining meteorological drought
 - Land surface temperature
 - Soil moisture
 - Groundwater and surface water volume
 - Snow
-- Evapotranspiration: not directly observable but infered through combined data and interprative model. Grid cellsize and temporal resolution are coarse. 
+- Evapotranspiration: not directly observable but inferred through combined data and interpretive model. Grid cell size and temporal resolution are coarse. 
 
 ## Vegetation response to [[drought]]
 Stomatal closure, two contrasting strategies

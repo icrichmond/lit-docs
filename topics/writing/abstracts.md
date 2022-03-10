@@ -27,7 +27,7 @@ eg.
 * Conclusions
 
 ### Nonstructured
-eg. 5 senstences
+eg. 5 sentences
 
 1. background
 2. aims + objectives
