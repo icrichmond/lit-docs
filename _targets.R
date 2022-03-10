@@ -10,6 +10,7 @@ library(stringi)
 library(bookdown)
 library(fs)
 library(kableExtra)
+library(spelling)
 
 
 source('R/functions.R')
@@ -54,6 +55,10 @@ c(
     book,
     {book_deps; render_book()},
     cue = tar_cue('always')
+  ),
+  tar_target(
+    spell_check,
+    spell_check_files(dir(pattern = '.md', recursive = TRUE))
   )
 )
 
