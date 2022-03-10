@@ -102,6 +102,11 @@ zhang_et_al_2017
 zhang_et_al_2017a
 zhu_et_al_2019
 drought-sensitivity-refugia
+introduction-1
+methods-2
+drought-indices
+vegetation
+masks
 open-animal-movement-data
 open-data-debate
 metadata
