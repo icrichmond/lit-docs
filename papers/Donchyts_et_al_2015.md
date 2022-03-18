@@ -9,6 +9,7 @@ https://www.researchgate.net/profile/Gennadiy-Donchyts/publication/301559649_Glo
 The authors produced a global 30 m [[HAND]] (height above the nearest drainage) dataset
 
 Combines: 
+
 - [[SRTM]], 30 m elevation
 - Viewfinder panoramas DEM, 90 m for areas north of 60
 

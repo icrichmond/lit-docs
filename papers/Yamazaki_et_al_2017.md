@@ -6,7 +6,7 @@ https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL072874
 
 ---
 
-Authors generatedd a global [[elevation]] layer [[DEM]] with reduced errors due to absolute bias, stripe noise, speckle noise, and tree height bias
+Authors generated a global [[elevation]] layer [[DEM]] with reduced errors due to absolute bias, stripe noise, speckle noise, and tree height bias
 
 Combines the [[SRTM]] (below 60 degrees N), the [[AW3D]] (above 60 degrees N) and, filling unobserved areas in either, the Viewfinder Panoramas DEM 
 

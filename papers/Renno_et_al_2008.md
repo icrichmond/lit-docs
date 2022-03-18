@@ -28,7 +28,7 @@ Generate the local drainage network, predicting the head water, where channels b
 - H (i, j) - Hd (i, j) {if Hd < H}
 - 0 {If Hd >= H}
 
-H (i, j) is the height of the point (i, j), Hd (i, i) is the height of the [[drainage]] point hydrologically connected to point (i, j).
+where H (i, j) is the height of the point (i, j), Hd (i, i) is the height of the [[drainage]] point hydrologically connected to point (i, j).
 
 All cells belonging to the [[drainage]] network are zeroed in height which implies the [[drainage]] potential (according to the [[HAND]] algorithm) along the stream channel is disregarded. 
 
