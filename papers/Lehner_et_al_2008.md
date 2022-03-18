@@ -6,3 +6,5 @@ https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2008EO100001
 
 ---
 
+[[HydroSHEDS]]: hydrological data based on shuttle elevation derivatives at multiple scales using [[SRTM]] elevation. Produced by WWF. 
+
