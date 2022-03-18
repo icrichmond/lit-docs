@@ -83,6 +83,7 @@ flow-direction
 drainage-network
 height-above-nearest-drainage-hand
 sensitivity-to-threshold
+safanelli_et_al_2020
 sayers_et_al_2016
 sholihah_et_al_2016
 slette_et_al_2020
