@@ -20,14 +20,25 @@ Input:
 Output: 
 
 - Slope (m)
+	- "Slope gradient is a flow attribute that relates to the velocity of gravity-driven flows"
 - Aspect (degrees)
 - Hillshade (degrees)
 - Northness (unitless)
+	- Derived from aspect
 - Eastness (unitless)
+	- Derived from aspect
 - Curvatures (m)
 	- Horizontal
+		- Derived from first and second order partial derivatives, representing if a lateral flow converges (kh < 0) or diverges (kh > 0)
 	- Vertical
+		- Derived from first and second order partial derivatives, representing the relative acceleration (kv > 0) and deceleration (kv < 0) of a gravity-driven flow
 	- Mean
+		- Represents accumulation mechanisms of gravity-driven flows: convergence and relative deceleration. 
 	- Max
+		- Highest curvature for a given point on the topographic surface, represents ridges (kmax > 0) and closed depressions (kmax < 0)
+	- Min
+		- Lowest curvature for a given point on the topographic surface, represents hills (kmax > 0) and valleys (kmax < 0)
 	- Gaussian
+		- Product of maximal and minimal curvatures. 
 - Shape index (unitless)
+	- Ranges from -1 to 1 and represents convex (SI > 0) and concave (SI < 0) landforms
