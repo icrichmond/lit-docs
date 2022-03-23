@@ -225,21 +225,62 @@
 </ul>
 <p>Output:</p>
 <ul>
-<li>Slope (m)</li>
-<li>Aspect (degrees)</li>
-<li>Hillshade (degrees)</li>
-<li>Northness (unitless)</li>
-<li>Eastness (unitless)</li>
-<li>Curvatures (m)
+<li>Slope (m)
 <ul>
-<li>Horizontal</li>
-<li>Vertical</li>
-<li>Mean</li>
-<li>Max</li>
-<li>Gaussian</li>
+<li>“Slope gradient is a flow attribute that relates to the velocity of gravity-driven flows”</li>
 </ul>
 </li>
-<li>Shape index (unitless)</li>
+<li>Aspect (degrees)</li>
+<li>Hillshade (degrees)</li>
+<li>Northness (unitless)
+<ul>
+<li>Derived from aspect</li>
+</ul>
+</li>
+<li>Eastness (unitless)
+<ul>
+<li>Derived from aspect</li>
+</ul>
+</li>
+<li>Curvatures (m)
+<ul>
+<li>Horizontal
+<ul>
+<li>Derived from first and second order partial derivatives, representing if a lateral flow converges (kh &lt; 0) or diverges (kh &gt; 0)</li>
+</ul>
+</li>
+<li>Vertical
+<ul>
+<li>Derived from first and second order partial derivatives, representing the relative acceleration (kv &gt; 0) and deceleration (kv &lt; 0) of a gravity-driven flow</li>
+</ul>
+</li>
+<li>Mean
+<ul>
+<li>Represents accumulation mechanisms of gravity-driven flows: convergence and relative deceleration.</li>
+</ul>
+</li>
+<li>Max
+<ul>
+<li>Highest curvature for a given point on the topographic surface, represents ridges (kmax &gt; 0) and closed depressions (kmax &lt; 0)</li>
+</ul>
+</li>
+<li>Min
+<ul>
+<li>Lowest curvature for a given point on the topographic surface, represents hills (kmax &gt; 0) and valleys (kmax &lt; 0)</li>
+</ul>
+</li>
+<li>Gaussian
+<ul>
+<li>Product of maximal and minimal curvatures.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Shape index (unitless)
+<ul>
+<li>Ranges from -1 to 1 and represents convex (SI &gt; 0) and concave (SI &lt; 0) landforms</li>
+</ul>
+</li>
 </ul>
 </div>
   <div class="chapter-nav">
@@ -263,7 +304,7 @@
 <footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
 
   <div class="col-12 col-md-6 mt-3">
-    <p>"<strong>Lit-base</strong>" was written by Alec L. Robitaille. It was last built on 2022-03-17.</p>
+    <p>"<strong>Lit-base</strong>" was written by Alec L. Robitaille. It was last built on 2022-03-23.</p>
   </div>
 
   <div class="col-12 col-md-6 mt-3">
