@@ -18,6 +18,9 @@ avetisyan_et_al_2021
 bachmair_et_al_2016
 barnes_et_al_2016
 brown_et_al_2008
+campbell_2004
+definitions
+discussion
 carlson_et_al_1997
 cartwright_et_al_2020
 intro
