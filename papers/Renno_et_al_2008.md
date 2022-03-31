@@ -40,6 +40,6 @@ Heights are taken from original, non-corrected [[DEM]] and not from the topogica
 ### Sensitivity to threshold
 The only flexible parameter required to calculate [[HAND]] is the size of the contributing area. Decreasing the threshold size of the contributing area increases the density of the [[drainage]] network. The authors recommend ground truthing the threshold to appropriately represent the local drainage density. 
 
-Decreasing the threshold ~ increasing the number of stream orders ~ decreasing overall smoothness ~ increasing ability to distinguish contrasting local environments
+Decreasing the threshold -> ~increases the number of stream orders -> ~decreases overall smoothness -> ~increases ability to distinguish contrasting local environments
 
 Figure 7 explores the sensitivity of [[HAND]] to a range of thresholds. 
