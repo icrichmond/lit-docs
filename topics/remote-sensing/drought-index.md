@@ -1,4 +1,0 @@
-# Drought-index
-
-- [[SPEI]]
-- [[CMI]]
