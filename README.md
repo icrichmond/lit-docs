@@ -20,8 +20,3 @@ vs
 ---
 [[Sayers_et_al_2016]] three types of [[drought]]
 ```
-
-
-## Projects
-* [Open animal movement data](https://gitlab.com/robit.a/open-animal-movement-data)
-
