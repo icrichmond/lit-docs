@@ -1,5 +1,6 @@
 # lit-base
-Alec L. Robitaille
+Code/structure written by Alec L. Robitaille  
+Paper notes/content by IC Richmond
 
 ## Usage
 
