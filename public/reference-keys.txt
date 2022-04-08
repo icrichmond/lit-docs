@@ -8,4 +8,13 @@ diaz_et_al_2015
 diaz_et_al_2018
 ernstson_2013
 gaston_et_al_2013
+gerrish_watkins_2018
+goddard_et_al_2021
+graves_et_al_2017
+graves_et_al_2019
+haase_et_al_2014
+hanna_et_al_2020
+hoover_lim_2020
+jenerette_2018
+kawahara_et_al_2021
 roman_et_al_2020
