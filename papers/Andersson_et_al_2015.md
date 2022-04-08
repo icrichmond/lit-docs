@@ -1,4 +1,4 @@
-# Andersson_et_al_2015  
+# Andersson_et_al_2015
 
 Andersson E, McPhearson T, Kremer P, et al (2015) Scale and context dependence of ecosystem service providing units Ecosystem Services 12:157--164 <https://doi.org/10.1016/j.ecoser.2014.08.001>
 
