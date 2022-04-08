@@ -1,4 +1,11 @@
 lit-base
 andersson_et_al_2015
 aronson_et_al_2017
+avolio_et_al_2018
+bennett_2017
+brauman_et_al_2020
+diaz_et_al_2015
+diaz_et_al_2018
+ernstson_2013
+gaston_et_al_2013
 roman_et_al_2020
