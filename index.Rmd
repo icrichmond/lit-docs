@@ -1,16 +1,17 @@
 ---
 title: "Lit-base"
-author: "Alec L. Robitaille"
+author: "Isabella C. Richmond/Alec L. Robitaille"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-description: "Lit base."
+description: ""
 link-citations: yes
 ---
 
 
 
-# Lit-base
-Alec L. Robitaille
+# Lit-base  
+Isabella C. Richmond (notes)  
+Alec L. Robitaille (code/framework)
 
 
 ```{r}

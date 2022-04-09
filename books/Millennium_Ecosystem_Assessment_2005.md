@@ -1,0 +1,11 @@
+# Millennium_Ecosystem_Assessment_2005  
+
+Millennium Ecosystem Assessment (2005) Ecosystems and human well-being: health synthesis. World Health Organization, Geneva, Switzerland <https://www.millenniumassessment.org/en/index.html> 
+
+
+
+---
+
+Keywords: Ecosystem services, MEA, [[policy]], [[environmental justice]]	  
+
+Ecosystem changes caused by humans can have direct health impacts, ecosystem mediated health impacts and indirect health impacts (Fig 1). ES are indispensable to human health. Describes in detail the impacts of different ES on human health (e.g. climate regulation and timber). Ecosystems are being degraded for human use and agricultural production which widens the wealth gap and decreases ES in poor areas. Projections for ES and health prospects. Uses provisioning, [[regulating ecosystem services]], supporting, and cultural breakdown of services. Description of each category of ES and impacts on human [[health]]. Focuses on fresh water, food, disease prevention, timber, climate regulation. Describes how ecosystems have changed over time with human influence. List of goals for the MEA related to human health and development/ES. Prioritizing economies and security will increase wealth gap, reduce human health, and destroy ES. Safeguarding ES is prioritizing long-term human health. ES are not distributed equitably. 

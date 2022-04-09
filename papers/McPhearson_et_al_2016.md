@@ -5,6 +5,7 @@ McPhearson T, Pickett STA, Grimm NB, et al (2016) Advancing Urban Ecology toward
 
 ---
 
-Keywords: Urban, [[biodiversity]], growth	 
+Keywords: Urban ecology, conceptual framework	 
 
-Focuses on the impact of urban growth on biodiversity. One useful categorization of biodiversity impacts of urban area is direct or indirect. Completed a review on biodiversity papers from 2010-2018. [[urban form]] and metabolism, which impacts biodiversity, are always changing and are outcomes of human choices. Use the climate change initiative land cover dataset. Table of estimated urban-caused habitat loss for terrestrial biome types - temperate broadleaf forests is highest. Urbanization generally leads to biodiversity declines, especially when expansion occurs on natural habitats. Most research happens in wealthy, temperate biomes even though that is not where the majority of people live. Need more research on indirect effects of urbanization on biodiversity 
+Ecology in, of, and for cities. Provides key questions for each domain that are still waiting to be answered. Ecology in cities uses ecological approaches from wild and rural ecosystems in green patches within urban areas - early foundation of the field. [[ecology of cities]] incorporates ecology in cities but expands it to assert that the city itself is an ecosystem - increasingly incorporating built infrastructure. Ecology for cities will require bringing research into various modes of practice. The future of urban ecology must be systems focused, interdisciplinary, participatory, [[spatiotemporal]], advance new methods. Defines [[urban form]]. Need cross-city and cross-scale studies to determine general properties and dynamics of urban systems.
+
