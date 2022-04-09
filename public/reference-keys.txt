@@ -1,5 +1,5 @@
 lit-docs
-millennium_ecosystem_assessment_2005
+mea_2005
 andersson_et_al_2015
 aronson_et_al_2017
 avolio_et_al_2018

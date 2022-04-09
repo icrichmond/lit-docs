@@ -3,7 +3,7 @@ title: "lit-docs"
 author: "Isabella C. Richmond/Alec L. Robitaille"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-description: ""
+description: "All notes documents regarding literature I have read"
 link-citations: yes
 ---
 
