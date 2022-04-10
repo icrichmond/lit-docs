@@ -1,0 +1,59 @@
+# Heynen_et_al_2006
+
+Heynen N, Kaika M, Swyngedouw E (eds) (2006) In the nature of cities: urban political ecology and the politics of urban metabolism. Routledge, London; New York
+
+---
+
+Keywords: [[urban political ecology]], [[environmental justice]]
+
+
+### Chapter 1: Urban political ecology - politicizing the production of urban natures  
+
+Cities are dense networks of interwoven socio-spatial processes that are simultaneously local and global, human and physical, cultural and organic. All processes that support and maintain urban life are infinitely connected physical and social proceses. Literature historical lacked an integration of the urban environment with its intimate relationship with capitalist urbanization and socioenvironmental injustice. Also, we have ignored the urbanization process as the driving force behind environmental issues and socio-environmental issues. Capitalism forceses the externalization of nature - but the accumulation of capital depends on nature. The conceptualization as ecosystems as inherently intertwined with social processes and thus humans started early - Friedrich Engels in 1845 noted that the depressing ecological conditions of England's cities were related to the class character of industrial urbanization. Transformation of nature and the related social relations are inextricably linked to urbanization. The production of the city through socio-environmental changes results in continuous production of new urban natures - all of these processes occur in the realms of power where different social actors strive to create their own environments. David Harvey - cities cannot be unnatural because humans are not external to ecosystem function - thus, produced environments are specific historical results of socio-environmental processes. In capitalist cities, "nature" takes the primarily social form of commidities - this commodity relation hides the socio-ecological processes of domination/subordiation and exploitation/repression that underpin the capitalist urbanization process. The commodification of nature, underpinning market-based society, obscures social relations of power and allows a disconnection of the flows of nature from its foundation. Need to focus on natural artefacts of cities and on the social processes that created the injustice and produced such artefacts. Metabolism = labour. Materialist approach = nature is part of the metabolism of social life - social relations operate through metabolizing the natural environment, and transform society and nature. Under capitalist social relations, production of value operates through social relations and nature/labour produce commodities with the goal of making the exchange value - thus, circulation of capital as value is the metabolic transformations of socio-natures. For example, the production of dams or the making of an urban park. Processes of uneven deterioration that accompany socioeconomics in cities also contribute to changes in the ecological form. And enhancing environmental qualities in certain areas often leads to a deterioration of social and physical conditions elsewhere. Manifesto 10 points are really good.  
+
+
+
+### Chapter 2: Metabolic urbanization - the making of cyborg cities  
+
+Materialism - asserts that both origin and development of what exists is dependent on nature and matter. Production = metabolic process that occurs through the fusion of physical properties and the creative capacities of humans with those of non-humans. Labouring = purposeful metabolic process intended to produce and reproduce (human) life. Humans are different than others is their organic capacity to wish differentially. Metabolic process is mobilized through human participation in nature/transformation of natural material into organs of human will. Thus, the act of labouring constitutes a socio-ecological process. Metabolism refers to the transformation (of nature/humans/things). Metabolic circulation combines physical dynamics with social conditions aka mode of production. Products used by labour in production enter as specific assemblages/collectives/networks, which then mobilize social processes and human/non-human actants to produce new assemblages = metabolism. Collectives are part social-part natural and embody and express nature and society - they take on cultural, social, and physical forms and enter social and ecological processes in new and transformeed ways - a city can be thought of as a collective which is why metabolism and circulation and good metaphors to use when discussing them. Metabolism is the central construct of Marx's labour - humans take materials of nature and transform them using their own bodies to something that is adapted to his needs. Social relations operate through metabolizing the natural environment, and transform both society and nature. Labour is the organic activity through which metabloism is mobilized.  Adam Smith & Karl Marx conceived of a capitalist economy as a metabolic system of circulating money/commidities, carried by and structured through social interactions and relations. Cities were conceptualized as circulation - network of pipes and conduits, with the idea being that the brisker the flow, the greater the wealth and health. Cities were changed to be a space for movemement of people, commidities, and information - which altered choreography of the city. Metabolic circulation is the socially mediated process of environmental transformation and trans-configuration, through which all manner of "agents" are mobilized/attached/collectivized/networked. The city is a metabolic circulatory process that materializes as an implosion of socio-netural relations. Cities can be described as a process of geographically arranged socio-environmental metabolisms. The urbanization process forces nature to enter the sphere of money and cultural capital/associated power relations and redraws socio-natural power relations. Cities can be conceptualized as hybrids/cyborgs - combining the powers of nature with those of class, gender, and ethnic relations.  
+
+
+### Chapter 3: Metropolitics and metabolics - rolling out environmentalism in Toronto  
+
+Neoliberism in 1990s Toronto had unexpected outcome of strengthening the urban ecological agenda. Domination of nature and domination of humankind are connected processes that come together in the urban. Urban metabolism as a means of quantifying the overall fluxes of energy, water, material, and wastes in and out of an urban region. Amalgamation of Toronto has had net positive effects on urban environmental discourse due to the environmental activism that resulted.
+
+
+### Chapter 4: Urban nature and the ecological imaginary  
+
+Nature here includes a menagerie of concrete forms, ranging from human body to parks/gardens/ecosystems and an ideological/metaphorical schema for the interpretation of reality. The production of nature is a process of social and bio-physical change where new kinds of spaces are created and destroyed. The modern city's form and function is understood using a series of metaphors called the "ecological imaginary". Urban development is intertwined with cultural views of cities and nature. Nineteenth-century beautification movements sought to reintroduce nature to cities and new organic spaces appeared to re-establish contact between nature and urban society. In the twentieth century, people changed their relationship to the urban landscape, driven to a significant degree by car ownership. Focus on beautification and importance of nature shifted as the culture became pmore polarized and there was a more piecemeal emphasis on the decorative contributions of nature.  
+
+
+### Chapter 5: Nature's carnival - the ecology of pleasure at Coney Island   
+
+Coney Island displays nature as spectacle - intertwines multiple different types of nature into a new package that is wildly popular. Theory of nature/wilderness as interpreted by humans. The carnival provides nature in a way that is thrilling but not truly dangerous - like when environmentalistrs seek thrills in the Rockies
+
+
+### Chapter 6: The desire to metabolize nature - Edward Loveden Loveden, William Vanderstegen, and the disciplining of the river Thames  
+
+The investment in fixed capital works (locks) began the process of making the river Thames a metabolized second nature. "Improving" the river through this metabolization was necessary for faster circulation of value. The Thames landscape represented the "real" needs generated by demands of living, the "imagined" wants generated by culture and the "symbolic" desires created by people's feelings. So, the locks (solid capital) legitimized the existing social structure because they created the conditions for the reproduction of capital and acted as manifestations of contemporary social relations. Circulation was the key theory explaining the accumulation of wealth until the late 18th century. In the 1770s, the concern shifted from circulation to "surplus" and now the most important issue was the conservation of the river's water.
+
+
+### Chapter 7: Turfgrass subjects - the political economy of urban monoculture  
+
+Urban lawns represent a manifestation of how people living in systems that produce unevenly distributed costs/shifting risk ecologies feel distant from the ecological process. Lawns make up 25% of land cover in some states, and the majority of urban land cover. Lawns became ubiqutous relatively recently, following WWII. The lawn itself is a socio-technical system that is part of capitalized production, which produces urban/suburban suhects whose identity is connected to the purified lawn and disciplined by the material demands of the landscape they inherit. Pesticides used on lawns have serious human health and ecosystem impacts. The lawn acts as a community ideology - people often take care of their lawns for their neighbours and for the betterment of the community, they are more likely to know their neighbours and care about what happens in the community. Thus, chemical use becomes clustered. Yard management is done for social purposes - production of community.
+
+
+### Chapter 8: Justice of eating in the city - the political ecology of urban hunger  
+
+Urban hunger is proliferating - 88% increase in requests for emergency food assistance in US cities from 1997-2002. In 2003 alne, requests increase by 17% on average. Pablo Neruda reminds us that there is nothing inevitable about the tearstained sheets that shroud hunger, just as there is nothing inevitable about the capitalist system that produces it. Urban hunger is both a socio-economic and socio-natural problem that requires analysis within the context of urban metabolism. Marx's  approach states that humans must satisfy their NEEDS (hunger) before they can live full lives. Hunger needs a nature outside of itself. Commodification of food under capitalism means that access to food is based on what happens with food production elsewhere + extreme inequality has mean that many people have increasingly less access to food. The worker is fearfully handicapped by hunger - he does not have power because he cannot afford to wait if he disagrees with the capitalist. Reagan administration created food deserts in urban communities. Capitalism is responsible for the physical reconfiguration of urban space which has produced urban hunger. It is the everyday approach that will make a difference for urban hunger.
+
+
+### Chapter 9: Metabolisms of obe-city - flows of fat through bodies, cities and sewers  
+
+Harvey: "Cities are constituted out of the flows of energy, water, food, commoditie, money, people and all other necessities that sustain life". 
+
+
+### Chapter 10: The political ecology of water scarcity - the 1989-1991 Athenian drought  
+
+Athens passed laws to name water as a "natural gift" and the access to potable water as the right of every citizen.
+
