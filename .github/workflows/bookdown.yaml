@@ -7,10 +7,10 @@ on:
     branches: [main, master]
   workflow_dispatch:
 
-name: blogdown
+name: bookdown
 
 jobs:
-  blogdown:
+  bookdown:
     runs-on: ubuntu-latest
     # Only restrict concurrency for non-PR jobs
     concurrency:
@@ -28,12 +28,15 @@ jobs:
 
       - uses: r-lib/actions/setup-renv@v2
 
-      - name: Install hugo
-        run: blogdown::install_hugo()
-        shell: Rscript {0}
+      - name: Cache bookdown results
+        uses: actions/cache@v2
+        with:
+          path: _bookdown_files
+          key: bookdown-${{ hashFiles('**/*Rmd') }}
+          restore-keys: bookdown-
 
       - name: Build site
-        run: blogdown::build_site(TRUE)
+        run: bookdown::render_book("index.Rmd", quiet = TRUE)
         shell: Rscript {0}
 
       - name: Deploy to GitHub pages 🚀
@@ -41,4 +44,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           branch: gh-pages
-          folder: docs 
+          folder: _book
