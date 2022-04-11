@@ -61,4 +61,3 @@ c(
     spell_check_files(dir(pattern = '.md', recursive = TRUE))
   )
 )
-
