@@ -1,6 +1,7 @@
 library(targets)
 
-
+library(downlit)
+library(bslib)
 library(chk)
 library(xfun)
 library(data.table)
