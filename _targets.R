@@ -53,7 +53,7 @@ c(
   ),
   tar_target(
     book,
-    {book_deps; render_book()},
+    render_book(book_deps, "bookdown::gitbook"),
     cue = tar_cue('always')
   ),
   tar_target(
