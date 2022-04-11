@@ -23,6 +23,9 @@ source('R/functions.R')
 
 tar_load(edges)
 
+dir.create("html/")
+dir.create("docs/")
+
 visSave(vis_network(edges), 'html/viz.html')
 
 htmltools::includeHTML('html/viz.html')
