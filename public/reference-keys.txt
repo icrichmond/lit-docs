@@ -1,17 +1,4 @@
 lit-docs
-heynen_et_al_2006
-chapter-1-urban-political-ecology---politicizing-the-production-of-urban-natures
-chapter-2-metabolic-urbanization---the-making-of-cyborg-cities
-chapter-3-metropolitics-and-metabolics---rolling-out-environmentalism-in-toronto
-chapter-4-urban-nature-and-the-ecological-imaginary
-chapter-5-natures-carnival---the-ecology-of-pleasure-at-coney-island
-chapter-6-the-desire-to-metabolize-nature---edward-loveden-loveden-william-vanderstegen-and-the-disciplining-of-the-river-thames
-chapter-7-turfgrass-subjects---the-political-economy-of-urban-monoculture
-chapter-8-justice-of-eating-in-the-city---the-political-ecology-of-urban-hunger
-chapter-9-metabolisms-of-obe-city---flows-of-fat-through-bodies-cities-and-sewers
-chapter-10-the-political-ecology-of-water-scarcity---the-1989-1991-athenian-drought
-mea_2005
-united_nations_2018
 alonzo_et_al_2021
 amorimmaia_et_al_2020
 andersson_et_al_2015
